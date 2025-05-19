@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Spring
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Background
+  - City
+  - Cloud
+  - Tree
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 237987343
+    locked: 0
+  - name: Cloud
+    uniqueID: 1291557343
+    locked: 0
+  - name: Tree
+    uniqueID: 2087593935
+    locked: 0
+  - name: City
+    uniqueID: 1048523999
+    locked: 0
+  - name: Player
+    uniqueID: 3823573481
+    locked: 0
+  - name: Object
+    uniqueID: 3200557041
+    locked: 0
+  m_RenderingLayers:
+  - Default
