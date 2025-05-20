@@ -17,7 +17,7 @@ TagManager:
   - City
   - Cloud
   - Tree
-  - 
+  - Wall
   - 
   - 
   - 
@@ -54,11 +54,23 @@ TagManager:
   - name: City
     uniqueID: 1048523999
     locked: 0
+  - name: Overlay
+    uniqueID: 568300205
+    locked: 0
+  - name: Overlay1
+    uniqueID: 1896077519
+    locked: 0
   - name: Player
     uniqueID: 3823573481
     locked: 0
   - name: Object
     uniqueID: 3200557041
+    locked: 0
+  - name: Ground
+    uniqueID: 2533750065
+    locked: 0
+  - name: Wall
+    uniqueID: 4127698413
     locked: 0
   m_RenderingLayers:
   - Default
