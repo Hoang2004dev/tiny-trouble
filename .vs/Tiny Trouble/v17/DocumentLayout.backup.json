@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\background\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|d:\\pru212\\tiny trouble\\tiny trouble\\assets\\scripts\\enemy\\hamburgerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hamburgerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|d:\\pru212\\tiny trouble\\tiny trouble\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|d:\\pru212\\tiny trouble\\tiny trouble\\assets\\scripts\\objects\\spring\\springbounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\objects\\spring\\springbounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\spring\\springbounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\background\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\objects\\sawblade\\sawmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,8 +89,25 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "HamburgerEnemy.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\HamburgerEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\HamburgerEnemy.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\HamburgerEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\HamburgerEnemy.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:39:30.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SpringBounce.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Objects\\Spring\\SpringBounce.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\Spring\\SpringBounce.cs",
@@ -94,12 +115,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Objects\\Spring\\SpringBounce.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T09:15:22.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T09:15:22.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "InputActionReference.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Library\\PackageCache\\com.unity.inputsystem@7fe8299111a7\\InputSystem\\Actions\\InputActionReference.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@7fe8299111a7\\InputSystem\\Actions\\InputActionReference.cs",
@@ -107,12 +127,11 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.inputsystem@7fe8299111a7\\InputSystem\\Actions\\InputActionReference.cs",
               "ViewState": "AgIAAMcAAAAAAAAAAAAgwNIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T07:27:12.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T07:27:12.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
@@ -120,29 +139,24 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAAwIYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T06:56:54.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "WhenOpened": "2025-05-16T06:56:54.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ParallaxBackground.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\BackGround\\ParallaxBackground.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackGround\\ParallaxBackground.cs",
               "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\BackGround\\ParallaxBackground.cs",
               "RelativeToolTip": "Assets\\Scripts\\BackGround\\ParallaxBackground.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwB0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T10:24:16.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SawMover.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Objects\\SawBlade\\SawMover.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\SawBlade\\SawMover.cs",
@@ -154,20 +168,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
               "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAYwDgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAEYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T08:41:01.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T08:41:01.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DamageSource.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Objects\\Spike\\DamageSource.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\Spike\\DamageSource.cs",
@@ -179,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PlayerInputActions.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\_Game\\Input\\PlayerInputActions.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Input\\PlayerInputActions.cs",

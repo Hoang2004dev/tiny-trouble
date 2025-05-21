@@ -60,6 +60,9 @@ TagManager:
   - name: Overlay1
     uniqueID: 1896077519
     locked: 0
+  - name: Enemy
+    uniqueID: 2531332207
+    locked: 0
   - name: Player
     uniqueID: 3823573481
     locked: 0
