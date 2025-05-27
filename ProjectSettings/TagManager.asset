@@ -48,11 +48,20 @@ TagManager:
   - name: Cloud
     uniqueID: 1291557343
     locked: 0
+  - name: Cloud2
+    uniqueID: 1053629505
+    locked: 0
   - name: Tree
     uniqueID: 2087593935
     locked: 0
   - name: City
     uniqueID: 1048523999
+    locked: 0
+  - name: Object
+    uniqueID: 3200557041
+    locked: 0
+  - name: Enemy
+    uniqueID: 2531332207
     locked: 0
   - name: Overlay
     uniqueID: 568300205
@@ -60,20 +69,20 @@ TagManager:
   - name: Overlay1
     uniqueID: 1896077519
     locked: 0
-  - name: Enemy
-    uniqueID: 2531332207
-    locked: 0
-  - name: Player
-    uniqueID: 3823573481
-    locked: 0
-  - name: Object
-    uniqueID: 3200557041
+  - name: Trap
+    uniqueID: 670716005
     locked: 0
   - name: Ground
     uniqueID: 2533750065
     locked: 0
   - name: Wall
     uniqueID: 4127698413
+    locked: 0
+  - name: CharacterTop
+    uniqueID: 1769282827
+    locked: 0
+  - name: Player
+    uniqueID: 3823573481
     locked: 0
   m_RenderingLayers:
   - Default

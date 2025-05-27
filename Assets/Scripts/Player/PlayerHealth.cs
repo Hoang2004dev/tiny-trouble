@@ -3,9 +3,14 @@ using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
 {
+    [Header("Máu")]
     public int maxHealth = 3;
     private int currentHealth;
 
+    [Header("Hiển thị UI")]
+    public HealthUIManager healthUI; // Kéo từ Inspector
+
+    [Header("Tạm thời bất tử")]
     public float invincibleDuration = 1f;
     private bool isInvincible = false;
 
@@ -15,6 +20,12 @@ public class PlayerHealth : MonoBehaviour
     {
         currentHealth = maxHealth;
         animator = GetComponent<Animator>();
+
+        if (healthUI != null)
+        {
+            healthUI.SetupHearts(maxHealth);
+            healthUI.UpdateHearts(currentHealth);
+        }
     }
 
     public void TakeDamage(int amount)
@@ -22,7 +33,11 @@ public class PlayerHealth : MonoBehaviour
         if (isInvincible) return;
 
         currentHealth -= amount;
+        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
         Debug.Log("Player HP: " + currentHealth);
+
+        if (healthUI != null)
+            healthUI.UpdateHearts(currentHealth); // 🔁 Cập nhật UI trái tim
 
         if (animator != null)
             animator.SetTrigger("Hurt");
@@ -74,17 +89,13 @@ public class PlayerHealth : MonoBehaviour
         {
             rb.linearVelocity = Vector2.zero;
 
-            // 👉 Lực đẩy ngang + nhẹ lên trên
             float randomX = Random.Range(-1f, 1f);
             float upwardY = Random.Range(1f, 2f);
             Vector2 knockbackForce = new Vector2(randomX, upwardY).normalized * 8f;
             rb.AddForce(knockbackForce, ForceMode2D.Impulse);
 
-            // 🔄 4.1 Cho phép xoay và thêm xoay ngẫu nhiên
-            rb.freezeRotation = false; // phải mở xoay trước
-            rb.angularVelocity = Random.Range(-360f, 360f); // xoay từ trái qua phải hoặc ngược lại
-
-            // (Tuỳ chọn) rơi nhanh hơn
+            rb.freezeRotation = false;
+            rb.angularVelocity = Random.Range(-360f, 360f);
             rb.gravityScale = 1.5f;
         }
 
@@ -94,9 +105,7 @@ public class PlayerHealth : MonoBehaviour
 
     private void RestartLevel()
     {
-        // Gọi lại màn chơi (hoặc load scene game over)
         UnityEngine.SceneManagement.SceneManager.LoadScene(
             UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex);
     }
-
 }

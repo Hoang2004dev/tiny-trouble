@@ -130,7 +130,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -144,7 +144,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -168,7 +168,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -922,7 +922,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      font-441_0: 4321057480448824505
+      font-441_1: 3819700464818269716
+      font-441_10: 2064006185058485401
+      font-441_11: -9054115136537937942
+      font-441_12: -3624595667312062227
+      font-441_13: 5708358750237649708
+      font-441_14: 8996542811195862866
+      font-441_15: -3757381270410005856
+      font-441_16: 3756891595422448722
+      font-441_17: 585686641524739419
+      font-441_18: 8306738538344689262
+      font-441_19: 667116048780538241
+      font-441_2: 1580089504290464892
+      font-441_20: 1306574787918502911
+      font-441_21: -5078012576812281253
+      font-441_22: 521112404002011932
+      font-441_23: 8246630665159113201
+      font-441_24: -8707162471599606439
+      font-441_25: -4621530027745216858
+      font-441_26: -7800622966976885599
+      font-441_27: -785201407306306353
+      font-441_28: -5698442272836821034
+      font-441_29: -1827005581432322814
+      font-441_3: 1962691309598244425
+      font-441_30: -6426203306074350265
+      font-441_31: 2395065532275664811
+      font-441_4: -8033383712211217443
+      font-441_5: -7153182587740784005
+      font-441_6: -749353626866025543
+      font-441_7: 3688731903932254078
+      font-441_8: 7179197085124371569
+      font-441_9: -3846124501186817611
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

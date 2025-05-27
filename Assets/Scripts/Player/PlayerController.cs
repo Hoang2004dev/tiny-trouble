@@ -10,7 +10,7 @@ public class PlayerController : MonoBehaviour
     public LayerMask groundLayer;
     public Transform groundCheck;
     public float groundCheckRadius = 0.2f;
-    public float jumpCooldown = 0.5f;
+    public float jumpCooldown = 0.1f;
 
     private Rigidbody2D rb;
     private Animator animator;
@@ -19,7 +19,11 @@ public class PlayerController : MonoBehaviour
     private bool jumpPressed = false;
     private float lastJumpTime = -999f;
 
-    // Biến để theo dõi phím nhấn đầu tiên
+    private int jumpCount = 0;
+    public int maxJumps = 2;
+
+    private bool wasGrounded = false; // Thêm biến để theo dõi trạng thái grounded trước đó
+
     private enum FirstKey { None, A, D }
     private FirstKey firstKeyPressed = FirstKey.None;
 
@@ -31,11 +35,21 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        bool isGrounded = IsGrounded();
+
+        // Reset jumpCount chỉ khi vừa tiếp đất (từ trên không chuyển sang grounded)
+        if (isGrounded && !wasGrounded)
+        {
+            jumpCount = 0;
+        }
+        wasGrounded = isGrounded;
+
         // Nhảy nếu đủ điều kiện
-        if (jumpPressed && IsGrounded() && Time.time - lastJumpTime >= jumpCooldown)
+        if (jumpPressed && jumpCount < maxJumps && Time.time - lastJumpTime >= jumpCooldown)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             lastJumpTime = Time.time;
+            jumpCount++;
         }
 
         // Reset nhảy sau 1 frame
@@ -48,7 +62,7 @@ public class PlayerController : MonoBehaviour
             animator.SetBool("FacingRight", false);
 
         animator.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
-        animator.SetBool("IsJumpingOrFalling", !IsGrounded());
+        animator.SetBool("IsJumpingOrFalling", !isGrounded);
         animator.SetBool("IsMovingRight", rb.linearVelocity.x > 0.1f);
         animator.SetBool("IsMovingLeft", rb.linearVelocity.x < -0.1f);
     }
@@ -60,17 +74,12 @@ public class PlayerController : MonoBehaviour
 
     public void OnMove(InputAction.CallbackContext context)
     {
-        // Lấy giá trị từ 2D Vector Composite
         Vector2 input = context.ReadValue<Vector2>();
-
-        // Kiểm tra trạng thái phím
         bool dPressed = Keyboard.current != null && Keyboard.current.dKey.isPressed;
         bool aPressed = Keyboard.current != null && Keyboard.current.aKey.isPressed;
 
-        // Xử lý logic ưu tiên phím nhấn trước
         if (context.started || context.performed || context.canceled)
         {
-            // Cập nhật phím nhấn đầu tiên
             if (firstKeyPressed == FirstKey.None)
             {
                 if (dPressed && !aPressed)
@@ -79,28 +88,27 @@ public class PlayerController : MonoBehaviour
                     firstKeyPressed = FirstKey.A;
             }
 
-            // Xác định moveInput dựa trên phím nhấn đầu tiên
             if (firstKeyPressed == FirstKey.D)
             {
                 if (dPressed)
-                    moveInput = 1f; // Ưu tiên D -> di chuyển phải
+                    moveInput = 1f;
                 else
                 {
                     firstKeyPressed = aPressed ? FirstKey.A : FirstKey.None;
-                    moveInput = aPressed ? -1f : 0f; // Chuyển sang A nếu A còn nhấn, hoặc dừng
+                    moveInput = aPressed ? -1f : 0f;
                 }
             }
             else if (firstKeyPressed == FirstKey.A)
             {
                 if (aPressed)
-                    moveInput = -1f; // Ưu tiên A -> di chuyển trái
+                    moveInput = -1f;
                 else
                 {
                     firstKeyPressed = dPressed ? FirstKey.D : FirstKey.None;
-                    moveInput = dPressed ? 1f : 0f; // Chuyển sang D nếu D còn nhấn, hoặc dừng
+                    moveInput = dPressed ? 1f : 0f;
                 }
             }
-            else // firstKeyPressed == FirstKey.None
+            else
             {
                 if (dPressed && !aPressed)
                 {
@@ -114,7 +122,7 @@ public class PlayerController : MonoBehaviour
                 }
                 else
                 {
-                    moveInput = 0f; // Không phím nào hoặc cả hai đều nhấn khi không có phím ưu tiên
+                    moveInput = 0f;
                 }
             }
         }
