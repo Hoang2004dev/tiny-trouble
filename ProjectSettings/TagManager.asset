@@ -18,7 +18,7 @@ TagManager:
   - Cloud
   - Tree
   - Wall
-  - 
+  - CameraBounds
   - 
   - 
   - 
@@ -45,10 +45,10 @@ TagManager:
   - name: Sky
     uniqueID: 237987343
     locked: 0
-  - name: Cloud
+  - name: Cloud01
     uniqueID: 1291557343
     locked: 0
-  - name: Cloud2
+  - name: Cloud02
     uniqueID: 1053629505
     locked: 0
   - name: Tree
@@ -57,17 +57,14 @@ TagManager:
   - name: City
     uniqueID: 1048523999
     locked: 0
-  - name: Object
-    uniqueID: 3200557041
-    locked: 0
-  - name: Enemy
-    uniqueID: 2531332207
-    locked: 0
-  - name: Overlay
+  - name: Overlay01
     uniqueID: 568300205
     locked: 0
-  - name: Overlay1
+  - name: Overlay02
     uniqueID: 1896077519
+    locked: 0
+  - name: Object
+    uniqueID: 3200557041
     locked: 0
   - name: Trap
     uniqueID: 670716005
@@ -80,6 +77,12 @@ TagManager:
     locked: 0
   - name: CharacterTop
     uniqueID: 1769282827
+    locked: 0
+  - name: Enemy
+    uniqueID: 2531332207
+    locked: 0
+  - name: NPC
+    uniqueID: 3660748469
     locked: 0
   - name: Player
     uniqueID: 3823573481

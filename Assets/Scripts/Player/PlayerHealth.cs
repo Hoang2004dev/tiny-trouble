@@ -14,6 +14,9 @@ public class PlayerHealth : MonoBehaviour
     public float invincibleDuration = 1f;
     private bool isInvincible = false;
 
+    [Header("Tự chết nếu rơi khỏi map")]
+    public float deathYThreshold = -10f;
+
     private Animator animator;
 
     void Start()
@@ -25,6 +28,15 @@ public class PlayerHealth : MonoBehaviour
         {
             healthUI.SetupHearts(maxHealth);
             healthUI.UpdateHearts(currentHealth);
+        }
+    }
+
+    void Update()
+    {
+        if (transform.position.y < deathYThreshold && currentHealth > 0)
+        {
+            currentHealth = 0;
+            Die();
         }
     }
 
