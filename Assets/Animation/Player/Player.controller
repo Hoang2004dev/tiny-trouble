@@ -14,9 +14,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: IsJumpingOrFalling
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: IsMovingLeft
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 5797039805640413800}
   m_Solo: 0
@@ -42,9 +39,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 3
     m_ConditionEvent: Speed
     m_EventTreshold: 0.1
-  - m_ConditionMode: 1
-    m_ConditionEvent: IsMovingRight
-    m_EventTreshold: 0
   - m_ConditionMode: 2
     m_ConditionEvent: IsJumpingOrFalling
     m_EventTreshold: 0
@@ -104,9 +98,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: IsJumpingOrFalling
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: IsMovingRight
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -2387210396338097071}
   m_Solo: 0
@@ -161,8 +152,8 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: IsJumpingOrFalling
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: IsMovingLeft
+  - m_ConditionMode: 2
+    m_ConditionEvent: FacingRight
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 5797039805640413800}
@@ -193,7 +184,7 @@ AnimatorStateTransition:
     m_ConditionEvent: IsJumpingOrFalling
     m_EventTreshold: 0
   - m_ConditionMode: 1
-    m_ConditionEvent: IsMovingRight
+    m_ConditionEvent: FacingRight
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -2387210396338097071}
@@ -220,9 +211,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 3
     m_ConditionEvent: Speed
     m_EventTreshold: 0.1
-  - m_ConditionMode: 1
-    m_ConditionEvent: IsMovingRight
-    m_EventTreshold: 0
   - m_ConditionMode: 2
     m_ConditionEvent: IsJumpingOrFalling
     m_EventTreshold: 0
@@ -454,9 +442,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: IsJumpingOrFalling
     m_EventTreshold: 0
-  - m_ConditionMode: 1
-    m_ConditionEvent: IsMovingLeft
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 5797039805640413800}
   m_Solo: 0
@@ -482,9 +467,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 3
     m_ConditionEvent: Speed
     m_EventTreshold: 0.1
-  - m_ConditionMode: 1
-    m_ConditionEvent: IsMovingLeft
-    m_EventTreshold: 0
   - m_ConditionMode: 2
     m_ConditionEvent: IsJumpingOrFalling
     m_EventTreshold: 0
@@ -518,18 +500,6 @@ AnimatorController:
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
   - m_Name: IsJumpingOrFalling
-    m_Type: 4
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: IsMovingLeft
-    m_Type: 4
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
-  - m_Name: IsMovingRight
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0

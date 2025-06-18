@@ -131,9 +131,9 @@ TextureImporter:
       name: Dimensional_Portal_0
       rect:
         serializedVersion: 2
-        x: 8
+        x: 0
         y: 32
-        width: 18
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -153,9 +153,9 @@ TextureImporter:
       name: Dimensional_Portal_1
       rect:
         serializedVersion: 2
-        x: 8
-        y: 0
-        width: 19
+        x: 32
+        y: 32
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -163,9 +163,9 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 224274725686b3150800000000000000
+      spriteID: f65122e76ae974741a8aeafa4bd9cf7a
       internalID: 5853386924358050850
       vertices: []
       indices: 
@@ -175,9 +175,9 @@ TextureImporter:
       name: Dimensional_Portal_2
       rect:
         serializedVersion: 2
-        x: 39
+        x: 64
         y: 32
-        width: 17
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -185,9 +185,9 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 76068a56982e3fc30800000000000000
+      spriteID: 06396d303de35cc498034c8a1a5680e6
       internalID: 4392103141360296039
       vertices: []
       indices: 
@@ -197,9 +197,9 @@ TextureImporter:
       name: Dimensional_Portal_3
       rect:
         serializedVersion: 2
-        x: 40
+        x: 0
         y: 0
-        width: 19
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -207,9 +207,9 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e1582111577a5b8e0800000000000000
+      spriteID: 4d177ae47a0963c4f9f69bf1532a0c7e
       internalID: -1678251164886203106
       vertices: []
       indices: 
@@ -219,9 +219,9 @@ TextureImporter:
       name: Dimensional_Portal_4
       rect:
         serializedVersion: 2
-        x: 71
-        y: 32
-        width: 19
+        x: 32
+        y: 0
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -229,9 +229,9 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a0fc84b326fbf3500800000000000000
+      spriteID: 82d9f1e03d4a8484b80ac52160bf0add
       internalID: 378231322344738570
       vertices: []
       indices: 
@@ -241,9 +241,9 @@ TextureImporter:
       name: Dimensional_Portal_5
       rect:
         serializedVersion: 2
-        x: 72
+        x: 64
         y: 0
-        width: 19
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -251,9 +251,9 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a9129dfff97a0cdb0800000000000000
+      spriteID: 507776f753741ac47ac53c5a07801062
       internalID: -4773631299378667110
       vertices: []
       indices: 
@@ -263,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2ec337c8a9dd18f42bdb277c11342836
     internalID: 0
     vertices: []
     indices: 
@@ -271,7 +271,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Dimensional_Portal_0: -1160010366554915182
       Dimensional_Portal_1: 5853386924358050850

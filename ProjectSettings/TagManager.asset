@@ -63,6 +63,9 @@ TagManager:
   - name: Overlay02
     uniqueID: 1896077519
     locked: 0
+  - name: Overlay03
+    uniqueID: 3388485019
+    locked: 0
   - name: Object
     uniqueID: 3200557041
     locked: 0
@@ -86,6 +89,9 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 3823573481
+    locked: 0
+  - name: SceneTransition
+    uniqueID: 1999593487
     locked: 0
   m_RenderingLayers:
   - Default

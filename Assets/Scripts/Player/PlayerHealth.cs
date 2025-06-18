@@ -1,4 +1,5 @@
-﻿using Unity.Cinemachine;
+﻿using System.Collections;
+using Unity.Cinemachine;
 using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
@@ -19,6 +20,8 @@ public class PlayerHealth : MonoBehaviour
 
     private Animator animator;
 
+    public static bool isTransitioning = false;
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -33,6 +36,8 @@ public class PlayerHealth : MonoBehaviour
 
     void Update()
     {
+        if (isTransitioning) return;
+
         if (transform.position.y < deathYThreshold && currentHealth > 0)
         {
             currentHealth = 0;
@@ -64,10 +69,30 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
-    private System.Collections.IEnumerator BecomeTemporarilyInvincible()
+    private IEnumerator BecomeTemporarilyInvincible()
     {
         isInvincible = true;
-        yield return new WaitForSeconds(invincibleDuration);
+
+        SpriteRenderer sprite = GetComponent<SpriteRenderer>();
+        if (sprite != null)
+        {
+            float elapsed = 0f;
+            float blinkInterval = 0.15f;
+
+            while (elapsed < invincibleDuration)
+            {
+                sprite.enabled = !sprite.enabled; // Nhấp nháy
+                yield return new WaitForSeconds(blinkInterval);
+                elapsed += blinkInterval;
+            }
+
+            sprite.enabled = true; // Bật lại chắc chắn
+        }
+        else
+        {
+            yield return new WaitForSeconds(invincibleDuration);
+        }
+
         isInvincible = false;
     }
 

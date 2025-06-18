@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerController : MonoBehaviour
@@ -11,6 +10,11 @@ public class PlayerController : MonoBehaviour
     public Transform groundCheck;
     public float groundCheckRadius = 0.2f;
     public float jumpCooldown = 0.1f;
+    public int maxJumps = 2;
+
+    public float knockbackForce = 10f;
+    public float knockbackDuration = 0.2f;
+    public float knockbackAngle = 45f;
 
     private Rigidbody2D rb;
     private Animator animator;
@@ -18,126 +22,141 @@ public class PlayerController : MonoBehaviour
     private float moveInput = 0f;
     private bool jumpPressed = false;
     private float lastJumpTime = -999f;
-
     private int jumpCount = 0;
-    public int maxJumps = 2;
-
-    private bool wasGrounded = false; // Thêm biến để theo dõi trạng thái grounded trước đó
-
-    private enum FirstKey { None, A, D }
-    private FirstKey firstKeyPressed = FirstKey.None;
+    private bool wasGrounded = false;
+    private bool facingRight = true;
+    private bool isKnockedBack = false;
+    private bool canMove = true;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+
+        if (PlayerInputHandler.Instance != null)
+        {
+            PlayerInputHandler.Instance.OnMoveChanged += HandleMove;
+            PlayerInputHandler.Instance.OnJumpPressed += HandleJump;
+        }
     }
 
     void Update()
     {
+        if (!canMove) return;
+
         bool isGrounded = IsGrounded();
 
-        // Reset jumpCount chỉ khi vừa tiếp đất (từ trên không chuyển sang grounded)
         if (isGrounded && !wasGrounded)
         {
             jumpCount = 0;
         }
         wasGrounded = isGrounded;
 
-        // Nhảy nếu đủ điều kiện
         if (jumpPressed && jumpCount < maxJumps && Time.time - lastJumpTime >= jumpCooldown)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
+            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             lastJumpTime = Time.time;
             jumpCount++;
         }
 
-        // Reset nhảy sau 1 frame
         jumpPressed = false;
+        UpdateFacingDirection();
 
-        // Cập nhật Animator
-        if (moveInput > 0)
-            animator.SetBool("FacingRight", true);
-        else if (moveInput < 0)
-            animator.SetBool("FacingRight", false);
-
+        // Animator update
         animator.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
         animator.SetBool("IsJumpingOrFalling", !isGrounded);
-        animator.SetBool("IsMovingRight", rb.linearVelocity.x > 0.1f);
-        animator.SetBool("IsMovingLeft", rb.linearVelocity.x < -0.1f);
+        animator.SetBool("FacingRight", facingRight);
     }
 
     void FixedUpdate()
     {
+        if (!canMove || isKnockedBack)
+        {
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+            return;
+        }
+
         rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
     }
 
-    public void OnMove(InputAction.CallbackContext context)
+    private void HandleMove(Vector2 input)
     {
-        Vector2 input = context.ReadValue<Vector2>();
-        bool dPressed = Keyboard.current != null && Keyboard.current.dKey.isPressed;
-        bool aPressed = Keyboard.current != null && Keyboard.current.aKey.isPressed;
-
-        if (context.started || context.performed || context.canceled)
+        if (!canMove)
         {
-            if (firstKeyPressed == FirstKey.None)
-            {
-                if (dPressed && !aPressed)
-                    firstKeyPressed = FirstKey.D;
-                else if (aPressed && !dPressed)
-                    firstKeyPressed = FirstKey.A;
-            }
-
-            if (firstKeyPressed == FirstKey.D)
-            {
-                if (dPressed)
-                    moveInput = 1f;
-                else
-                {
-                    firstKeyPressed = aPressed ? FirstKey.A : FirstKey.None;
-                    moveInput = aPressed ? -1f : 0f;
-                }
-            }
-            else if (firstKeyPressed == FirstKey.A)
-            {
-                if (aPressed)
-                    moveInput = -1f;
-                else
-                {
-                    firstKeyPressed = dPressed ? FirstKey.D : FirstKey.None;
-                    moveInput = dPressed ? 1f : 0f;
-                }
-            }
-            else
-            {
-                if (dPressed && !aPressed)
-                {
-                    firstKeyPressed = FirstKey.D;
-                    moveInput = 1f;
-                }
-                else if (aPressed && !dPressed)
-                {
-                    firstKeyPressed = FirstKey.A;
-                    moveInput = -1f;
-                }
-                else
-                {
-                    moveInput = 0f;
-                }
-            }
+            moveInput = 0f;
+            return;
         }
+
+        moveInput = input.x;
     }
 
-    public void OnJump(InputAction.CallbackContext context)
+    private void HandleJump()
     {
-        if (context.performed)
-        {
-            jumpPressed = true;
-        }
+        if (!canMove) return;
+        jumpPressed = true;
     }
 
     private bool IsGrounded()
     {
-        return Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        RaycastHit2D hit = Physics2D.Raycast(groundCheck.position, Vector2.down, groundCheckRadius + 0.05f, groundLayer);
+        bool overlap = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        return hit.collider != null || overlap;
+    }
+
+    public void ApplyKnockback(Vector2 incomingDirection)
+    {
+        if (isKnockedBack) return;
+
+        isKnockedBack = true;
+        rb.linearVelocity = Vector2.zero;
+
+        Vector2 baseDir = incomingDirection.normalized;
+        Vector2 knockbackDir = RotateVector(baseDir, knockbackAngle);
+
+        rb.AddForce(knockbackDir * knockbackForce, ForceMode2D.Impulse);
+        Invoke(nameof(ResetKnockback), knockbackDuration);
+    }
+
+    private Vector2 RotateVector(Vector2 v, float angleDegrees)
+    {
+        return Quaternion.Euler(0, 0, angleDegrees) * v;
+    }
+
+    private void ResetKnockback()
+    {
+        isKnockedBack = false;
+    }
+
+    private void UpdateFacingDirection()
+    {
+        if (moveInput > 0.01f && !facingRight)
+            facingRight = true;
+        else if (moveInput < -0.01f && facingRight)
+            facingRight = false;
+    }
+
+    public void DisableMovement()
+    {
+        canMove = false;
+        moveInput = 0f;
+        rb.linearVelocity = Vector2.zero;
+        Debug.Log("[PlayerController] 🚫 Movement disabled");
+    }
+
+    public void EnableMovement()
+    {
+        canMove = true;
+        Debug.Log("[PlayerController] ✅ Movement enabled");
+    }
+
+    void OnDrawGizmosSelected()
+    {
+        if (groundCheck != null)
+        {
+            Gizmos.color = Color.green;
+            Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
+            Gizmos.DrawLine(groundCheck.position, groundCheck.position + Vector3.down * (groundCheckRadius + 0.05f));
+        }
     }
 }
