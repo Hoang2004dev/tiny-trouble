@@ -28,10 +28,15 @@ public class PlayerController : MonoBehaviour
     private bool isKnockedBack = false;
     private bool canMove = true;
 
+    [Header("Audio Settings")]
+    public AudioClip jumpSound;
+    private AudioSource audioSource;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
 
         if (PlayerInputHandler.Instance != null)
         {
@@ -58,6 +63,9 @@ public class PlayerController : MonoBehaviour
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             lastJumpTime = Time.time;
             jumpCount++;
+
+            if (audioSource != null && jumpSound != null)
+                audioSource.PlayOneShot(jumpSound);
         }
 
         jumpPressed = false;

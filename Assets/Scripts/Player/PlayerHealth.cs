@@ -22,10 +22,15 @@ public class PlayerHealth : MonoBehaviour
 
     public static bool isTransitioning = false;
 
+    [Header("Âm thanh")]
+    public AudioClip hurtSound;
+    private AudioSource audioSource;
+
     void Start()
     {
         currentHealth = maxHealth;
         animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
 
         if (healthUI != null)
         {
@@ -54,10 +59,13 @@ public class PlayerHealth : MonoBehaviour
         Debug.Log("Player HP: " + currentHealth);
 
         if (healthUI != null)
-            healthUI.UpdateHearts(currentHealth); // 🔁 Cập nhật UI trái tim
+            healthUI.UpdateHearts(currentHealth);
 
         if (animator != null)
             animator.SetTrigger("Hurt");
+
+        if (hurtSound != null && audioSource != null)
+            audioSource.PlayOneShot(hurtSound);
 
         if (currentHealth <= 0)
         {

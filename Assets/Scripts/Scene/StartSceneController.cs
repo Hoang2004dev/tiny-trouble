@@ -8,6 +8,7 @@ public class StartSceneController : MonoBehaviour
 {
     public TextMeshProUGUI touchToPlayText;
     private PlayerInputActions inputActions;
+    private bool loadingStarted = false;
 
     void Awake()
     {
@@ -31,6 +32,18 @@ public class StartSceneController : MonoBehaviour
         StartCoroutine(BlinkText());
     }
 
+    void Update()
+    {
+        if (loadingStarted) return;
+
+        if ((Mouse.current != null && Mouse.current.leftButton.wasPressedThisFrame)
+            || (Touchscreen.current != null && Touchscreen.current.primaryTouch.press.wasPressedThisFrame))
+        {
+            Debug.Log("[StartSceneController] 🖱️ Hoặc 👆 Tap phát hiện → LoadNextScene()");
+            LoadNextScene();
+        }
+    }
+
     private void OnInteractPerformed(InputAction.CallbackContext context)
     {
         LoadNextScene();
@@ -49,8 +62,10 @@ public class StartSceneController : MonoBehaviour
 
     void LoadNextScene()
     {
-        SceneManager.LoadScene("LevelSelectScene"); // đổi tên phù hợp
+        if (loadingStarted) return;
 
-        // phải thêm scene vào danh sách build trong Unity mới load dc
+        loadingStarted = true;
+        Debug.Log("[StartSceneController] 🎯 LoadNextScene called!");
+        SceneManager.LoadScene("LevelSelectScene");
     }
 }

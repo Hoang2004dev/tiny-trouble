@@ -1,0 +1,96 @@
+## Lv1 – The Waiting Room
+
+*(khi người chơi chạm NPC ở cuối màn)*
+
+```
+...Can you hear me...?
+
+Don’t be afraid. I won’t hurt you.
+
+I’ve been here... for such a long time.
+
+Waiting. Hoping someone would listen.
+
+You stopped for me.
+
+Thank you.
+```
+
+---
+
+## Lv2 – The Broken Promise
+
+*(khi đến đích/NPC ở cuối màn)*
+
+```
+You came back...
+
+I didn’t think anyone would.
+
+I remember now...
+
+I promised I’d never leave them behind.
+
+But I did.
+
+That promise... it kept me here.
+```
+
+---
+
+## Lv3 – The Locked Door
+
+*(khi đến chạm NPC ở cuối màn)*
+
+```
+You're still here...
+
+Most people turn away.
+
+I tried to forget.
+
+I tried to lock everything away.
+
+But my regrets... they built these walls.
+
+And I was trapped inside them.
+```
+
+---
+
+## Lv4 – The Final Farewell
+
+*(khi chạm NPC ở cuối màn, giải thoát)*
+
+```
+This is the last place...
+
+Where I should have said goodbye.
+
+But I was too scared.
+
+Thank you... for walking with me this far.
+
+I think... I can go now.
+
+Goodbye.
+```
+
+---
+
+## Ending / Win
+
+*(sau Lv4 khi game kết thúc)*
+
+```
+The spirit is free.
+
+Tiny Trouble ends here...
+
+but your kindness remains.
+
+Thank you for playing.
+```
+
+---
+

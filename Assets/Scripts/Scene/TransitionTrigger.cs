@@ -27,13 +27,9 @@ public class TransitionTrigger : MonoBehaviour
             Debug.Log("[TransitionTrigger] ScenePersist.Instance == null hoặc shouldPlayExitTransition = false");
         }
 
-        // Bật lại PlayerInputHandler nếu đang bị vô hiệu hóa
-        //if (PlayerInputHandler.Instance != null && !PlayerInputHandler.Instance.enabled)
-        //{
-        //    Debug.Log("[TransitionTrigger] Bật lại PlayerInputHandler sau scene load");
-        //    PlayerInputHandler.Instance.enabled = true;
-        //}
-   
         PlayerHealth.isTransitioning = false;
+
+        // ⭐ Add this line
+        UIUtils.SetAllButtonsInteractableAllScenes(true);
     }
 }
