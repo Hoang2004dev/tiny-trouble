@@ -44,13 +44,13 @@ public class CannonController : MonoBehaviour
 
     void Shoot()
     {
-        // 🔥 Gọi trigger để kích hoạt animation "Shoot"
+        // trigger  animation
         if (animator != null)
         {
             animator.SetTrigger("Shoot");
         }
 
-        // 💣 Tạo viên đạn
+        // tạo đạn
         GameObject bullet = Instantiate(cannonBallPrefab, firePoint.position, Quaternion.identity);
         CannonBall cb = bullet.GetComponent<CannonBall>();
         if (cb != null)

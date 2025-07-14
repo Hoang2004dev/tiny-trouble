@@ -3,80 +3,144 @@
   "WorkspaceRootPath": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\other\\musicsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\musicsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\other\\backgroundmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\backgroundmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\ui\\menuroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menuroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33132385-05B7-66BE-A2CD-8F4DC8B549A3}|Assembly-CSharp-Editor.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\editor\\levelprogresseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33132385-05B7-66BE-A2CD-8F4DC8B549A3}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\levelprogresseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|d:\\pru212\\tiny trouble\\tiny trouble\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\objects\\spike\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\spike\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\player\\playerinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\objects\\spring\\springbounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\spring\\springbounce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\scene\\startscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene\\startscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|d:\\pru212\\tiny trouble\\tiny trouble\\assets\\scripts\\player\\heart\\heartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\heart\\heartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\ui\\settingsbuttonhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\settingsbuttonhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\player\\heart\\healthuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\heart\\healthuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\ui\\menunavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menunavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\emoji\\npcemojicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\emoji\\npcemojicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\ui\\customcursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\customcursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\objects\\sawblade\\sawmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\sawblade\\sawmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\ui\\menupanelanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menupanelanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\objects\\spike\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\spike\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\ui\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\lore\\ghost.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\lore\\ghost.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\scene\\transitiontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene\\transitiontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\npc\\ghost\\npcdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\ghost\\npcdialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\utils\\uiutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\uiutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\npc\\portal\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\portal\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\ui\\buttoncornerhover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\buttoncornerhover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\hierarchy.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\hierarchy.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33132385-05B7-66BE-A2CD-8F4DC8B549A3}|Assembly-CSharp-Editor.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\editor\\levelprogresseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33132385-05B7-66BE-A2CD-8F4DC8B549A3}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\levelprogresseditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|d:\\pru212\\tiny trouble\\tiny trouble\\assets\\scripts\\background\\infiniteparallax2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\infiniteparallax2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\other\\musicsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\musicsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\other\\sfxsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\sfxsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\scene\\scenepersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene\\scenepersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\scene\\startscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene\\startscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\utils\\uiutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\uiutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\ui\\settingsbuttonhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\settingsbuttonhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\ui\\menuroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menuroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\ui\\menupanelanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menupanelanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\ui\\menunavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menunavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\ui\\buttoncornerhover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\buttoncornerhover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\ui\\customcursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\customcursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\scene\\levelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene\\levelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\player\\playerinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33132385-05B7-66BE-A2CD-8F4DC8B549A3}|Assembly-CSharp-Editor.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\editor\\hierarchyexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33132385-05B7-66BE-A2CD-8F4DC8B549A3}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\hierarchyexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\other\\backgroundmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\other\\backgroundmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\objects\\sawblade\\sawmoverloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\sawblade\\sawmoverloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\effect\\floatingmotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effect\\floatingmotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\background\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\enemy\\hamburgerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hamburgerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\enemy\\cannoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cannoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\enemy\\cannonball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cannonball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\level\\levelprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,50 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\level\\levelbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level\\levelbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\effect\\floatingmotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\effect\\floatingmotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\button\\backbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\button\\backbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\button\\testbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\button\\testbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\debugger\\mousedebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\debugger\\mousedebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\lore\\ghost.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\lore\\ghost.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\emoji\\npcemojicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\emoji\\npcemojicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\npc\\portal\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\portal\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\enemy\\cannonball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cannonball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\player\\heart\\healthuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\heart\\healthuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\enemy\\cannoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\cannoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\assets\\scripts\\enemy\\hamburgerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D490E63-C50F-28ED-72EB-4A5A7553DE1F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hamburgerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\Dino\\DinoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -190,108 +210,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlayerHealth.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:13:25.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MenuRoot.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\MenuRoot.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuRoot.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\MenuRoot.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\MenuRoot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAABIAAAAAAAAAA==",
+              "Title": "HeartUI.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\Heart\\HeartUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Heart\\HeartUI.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\Heart\\HeartUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Heart\\HeartUI.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T09:29:17.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SettingsButtonHandle.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\SettingsButtonHandle.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SettingsButtonHandle.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\SettingsButtonHandle.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\SettingsButtonHandle.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAMwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T07:05:35.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LevelProgressEditor.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Editor\\LevelProgressEditor.cs",
-              "RelativeDocumentMoniker": "Assets\\Editor\\LevelProgressEditor.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Editor\\LevelProgressEditor.cs",
-              "RelativeToolTip": "Assets\\Editor\\LevelProgressEditor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T14:50:45.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BackgroundMusic.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Other\\BackgroundMusic.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\BackgroundMusic.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Other\\BackgroundMusic.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Other\\BackgroundMusic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T06:05:53.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MusicSettingsController.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Other\\MusicSettingsController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\MusicSettingsController.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Other\\MusicSettingsController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Other\\MusicSettingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T06:14:42.843Z",
+              "WhenOpened": "2025-07-14T10:55:52.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T04:11:11.991Z"
+              "Title": "Ghost.txt",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Lore\\Ghost.txt",
+              "RelativeDocumentMoniker": "Assets\\Lore\\Ghost.txt",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Lore\\Ghost.txt",
+              "RelativeToolTip": "Assets\\Lore\\Ghost.txt",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-02T03:08:54.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StartSceneController.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Scene\\StartSceneController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\StartSceneController.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Scene\\StartSceneController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Scene\\StartSceneController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T08:10:12.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DamageSource.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Objects\\Spike\\DamageSource.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\Spike\\DamageSource.cs",
@@ -299,95 +244,178 @@
               "RelativeToolTip": "Assets\\Scripts\\Objects\\Spike\\DamageSource.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T13:33:43.678Z"
+              "WhenOpened": "2025-07-11T13:33:43.678Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlayerInputHandler.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerInputHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInputHandler.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerInputHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerInputHandler.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAowHAAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "SawMover.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Objects\\SawBlade\\SawMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\SawBlade\\SawMover.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Objects\\SawBlade\\SawMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\SawBlade\\SawMover.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T05:59:12.304Z"
+              "WhenOpened": "2025-07-14T08:49:32.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NPCEmojiController.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Emoji\\NPCEmojiController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Emoji\\NPCEmojiController.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Emoji\\NPCEmojiController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Emoji\\NPCEmojiController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:47:33.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpringBounce.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Objects\\Spring\\SpringBounce.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\Spring\\SpringBounce.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Objects\\Spring\\SpringBounce.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\Spring\\SpringBounce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:49:52.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:11:11.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthUIManager.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\Heart\\HealthUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Heart\\HealthUIManager.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\Heart\\HealthUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Heart\\HealthUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:03:50.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NPCDialogue.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\NPC\\Ghost\\NPCDialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\Ghost\\NPCDialogue.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\NPC\\Ghost\\NPCDialogue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC\\Ghost\\NPCDialogue.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAmwGsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:55:04.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Portal.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\NPC\\Portal\\Portal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\Portal\\Portal.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\NPC\\Portal\\Portal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC\\Portal\\Portal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:02:13.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MenuNavigation.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\MenuNavigation.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuNavigation.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\MenuNavigation.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\MenuNavigation.cs",
-              "ViewState": "AgIAAJ0AAAAAAAAAAAAqwKsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T04:21:01.66Z"
+              "Title": "hierarchy.txt",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\hierarchy.txt",
+              "RelativeDocumentMoniker": "Assets\\hierarchy.txt",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\hierarchy.txt",
+              "RelativeToolTip": "Assets\\hierarchy.txt",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-14T02:39:56.688Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CustomCursor.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\CustomCursor.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CustomCursor.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\CustomCursor.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\CustomCursor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Title": "LevelProgressEditor.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Editor\\LevelProgressEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\LevelProgressEditor.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Editor\\LevelProgressEditor.cs",
+              "RelativeToolTip": "Assets\\Editor\\LevelProgressEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T01:33:16.577Z"
+              "WhenOpened": "2025-06-15T14:50:45.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "MenuPanelAnimator.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\MenuPanelAnimator.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuPanelAnimator.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\MenuPanelAnimator.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\MenuPanelAnimator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Title": "InfiniteParallax2D.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\BackGround\\InfiniteParallax2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackGround\\InfiniteParallax2D.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\BackGround\\InfiniteParallax2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackGround\\InfiniteParallax2D.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T04:30:06.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UIUtils.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Utils\\UIUtils.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\UIUtils.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Utils\\UIUtils.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Utils\\UIUtils.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAmwCEAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T11:53:53.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TransitionManager.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\TransitionManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TransitionManager.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\TransitionManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\TransitionManager.cs",
-              "ViewState": "AgIAALMAAAAAAAAAAAAmwMkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:44:19.857Z"
+              "WhenOpened": "2025-07-14T08:23:18.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "TransitionTrigger.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Scene\\TransitionTrigger.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\TransitionTrigger.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Scene\\TransitionTrigger.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Scene\\TransitionTrigger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Title": "SFXSettingsController.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Other\\SFXSettingsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\SFXSettingsController.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Other\\SFXSettingsController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\SFXSettingsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:29:17.618Z"
+              "WhenOpened": "2025-07-11T14:18:10.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 15,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:13:25.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScenePersist.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Scene\\ScenePersist.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\ScenePersist.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Scene\\ScenePersist.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene\\ScenePersist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:25:21.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "InputActionReference.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Library\\PackageCache\\com.unity.inputsystem@7fe8299111a7\\InputSystem\\Actions\\InputActionReference.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@7fe8299111a7\\InputSystem\\Actions\\InputActionReference.cs",
@@ -399,12 +427,92 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MusicSettingsController.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Other\\MusicSettingsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\MusicSettingsController.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Other\\MusicSettingsController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\MusicSettingsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:14:42.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
+              "Title": "StartSceneController.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Scene\\StartSceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\StartSceneController.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Scene\\StartSceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene\\StartSceneController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:10:12.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UIUtils.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Utils\\UIUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\UIUtils.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Utils\\UIUtils.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\UIUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:53:53.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SettingsButtonHandle.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\SettingsButtonHandle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SettingsButtonHandle.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\SettingsButtonHandle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SettingsButtonHandle.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:05:35.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MenuRoot.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\MenuRoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuRoot.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\MenuRoot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MenuRoot.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAwwFoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:29:17.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MenuPanelAnimator.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\MenuPanelAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuPanelAnimator.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\MenuPanelAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MenuPanelAnimator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:30:06.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuNavigation.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\MenuNavigation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuNavigation.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\MenuNavigation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MenuNavigation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:21:01.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "ButtonCornerHover.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\ButtonCornerHover.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ButtonCornerHover.cs",
@@ -416,139 +524,167 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ScenePersist.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Scene\\ScenePersist.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\ScenePersist.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Scene\\ScenePersist.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Scene\\ScenePersist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "CustomCursor.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\CustomCursor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CustomCursor.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\UI\\CustomCursor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CustomCursor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T15:25:21.295Z"
+              "WhenOpened": "2025-06-16T01:33:16.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "LevelLoader.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Scene\\LevelLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Scene\\LevelLoader.cs",
               "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Scene\\LevelLoader.cs",
               "RelativeToolTip": "Assets\\Scripts\\Scene\\LevelLoader.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T14:01:34.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LevelProgress.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Level\\LevelProgress.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Level\\LevelProgress.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Level\\LevelProgress.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Level\\LevelProgress.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "PlayerInputHandler.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerInputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInputHandler.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerInputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerInputHandler.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T05:58:51.88Z"
+              "WhenOpened": "2025-06-17T05:59:12.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "LevelButton.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Level\\LevelButton.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Level\\LevelButton.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Level\\LevelButton.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Level\\LevelButton.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 27,
+              "Title": "HierarchyExporter.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Editor\\HierarchyExporter.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\HierarchyExporter.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Editor\\HierarchyExporter.cs",
+              "RelativeToolTip": "Assets\\Editor\\HierarchyExporter.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwBQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T15:07:01.434Z"
+              "WhenOpened": "2025-07-14T02:37:33.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
+              "Title": "BackgroundMusic.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Other\\BackgroundMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Other\\BackgroundMusic.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Other\\BackgroundMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Other\\BackgroundMusic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:05:53.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SawMoverLoop.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Objects\\SawBlade\\SawMoverLoop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\SawBlade\\SawMoverLoop.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Objects\\SawBlade\\SawMoverLoop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\SawBlade\\SawMoverLoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:49:37.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ParallaxBackground.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\BackGround\\ParallaxBackground.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackGround\\ParallaxBackground.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\BackGround\\ParallaxBackground.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackGround\\ParallaxBackground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:30:45.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "FloatingMotion.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Effect\\FloatingMotion.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Effect\\FloatingMotion.cs",
               "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Effect\\FloatingMotion.cs",
               "RelativeToolTip": "Assets\\Scripts\\Effect\\FloatingMotion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T13:42:57.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BackButtonHandler.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Button\\BackButtonHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Button\\BackButtonHandler.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Button\\BackButtonHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Button\\BackButtonHandler.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAkwGsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 33,
+              "Title": "CannonController.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\CannonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\CannonController.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\CannonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\CannonController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA3wDQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T13:04:43.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "TestButton.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Button\\TestButton.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Button\\TestButton.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Button\\TestButton.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Button\\TestButton.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwB8AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T15:00:27.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MouseDebugger.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Debugger\\MouseDebugger.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Debugger\\MouseDebugger.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Debugger\\MouseDebugger.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Debugger\\MouseDebugger.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T11:17:55.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Ghost.txt",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Lore\\Ghost.txt",
-              "RelativeDocumentMoniker": "Assets\\Lore\\Ghost.txt",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Lore\\Ghost.txt",
-              "RelativeToolTip": "Assets\\Lore\\Ghost.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-02T03:08:54.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "NPCEmojiController.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Emoji\\NPCEmojiController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Emoji\\NPCEmojiController.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Emoji\\NPCEmojiController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Emoji\\NPCEmojiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T03:47:33.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Portal.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\NPC\\Portal\\Portal.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\Portal\\Portal.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\NPC\\Portal\\Portal.cs",
-              "RelativeToolTip": "Assets\\Scripts\\NPC\\Portal\\Portal.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAApwKAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T15:02:13.946Z"
+              "WhenOpened": "2025-05-30T03:54:17.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
+              "Title": "CannonBall.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\CannonBall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\CannonBall.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\CannonBall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\CannonBall.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:50:24.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HamburgerEnemy.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\HamburgerEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\HamburgerEnemy.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\HamburgerEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\HamburgerEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:52:07.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LevelProgress.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Level\\LevelProgress.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level\\LevelProgress.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Level\\LevelProgress.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level\\LevelProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:58:51.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LevelButton.cs",
+              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Level\\LevelButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level\\LevelButton.cs",
+              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Level\\LevelButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level\\LevelButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:07:01.434Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
@@ -560,19 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CannonBall.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\CannonBall.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\CannonBall.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\CannonBall.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\CannonBall.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T03:50:24.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "DinoController.cs",
               "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\Dino\\DinoController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Dino\\DinoController.cs",
@@ -580,42 +704,6 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\Dino\\DinoController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T12:42:36.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "HealthUIManager.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\Heart\\HealthUIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Heart\\HealthUIManager.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Player\\Heart\\HealthUIManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\Heart\\HealthUIManager.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:03:50.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CannonController.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\CannonController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\CannonController.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\CannonController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\CannonController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T03:54:17.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "HamburgerEnemy.cs",
-              "DocumentMoniker": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\HamburgerEnemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\HamburgerEnemy.cs",
-              "ToolTip": "D:\\PRU212\\Tiny Trouble\\Tiny Trouble\\Assets\\Scripts\\Enemy\\HamburgerEnemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\HamburgerEnemy.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T03:52:07.381Z"
             }
           ]
         },

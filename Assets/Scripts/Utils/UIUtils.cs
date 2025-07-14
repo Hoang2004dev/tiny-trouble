@@ -13,7 +13,6 @@ public static class UIUtils
     {
         if (SceneManager.GetActiveScene().name != sceneName)
         {
-            Debug.LogWarning($"[UIUtils] ❌ Scene hiện tại không phải '{sceneName}' → không áp dụng.");
             return;
         }
 
@@ -23,8 +22,6 @@ public static class UIUtils
         {
             btn.interactable = isInteractable;
         }
-
-        Debug.Log($"[UIUtils] {(isInteractable ? "✅ Enabled" : "❌ Disabled")} tất cả Button trong scene '{sceneName}'");
     }
 
     /// <summary>
@@ -39,7 +36,5 @@ public static class UIUtils
         {
             btn.interactable = isInteractable;
         }
-
-        Debug.Log($"[UIUtils] {(isInteractable ? "✅ Enabled" : "❌ Disabled")} tất cả Button trong tất cả scene đang loaded");
     }
 }

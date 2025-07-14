@@ -15,11 +15,11 @@ public class HamburgerEnemy : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
-        //rb.gravityScale = 0; // Không bị rơi
-        rb.constraints = RigidbodyConstraints2D.FreezeRotation; // Không xoay
+        //rb.gravityScale = 0; // ko bị rơi
+        rb.constraints = RigidbodyConstraints2D.FreezeRotation; // ko xoay
     }
 
-    void FixedUpdate() // dùng FixedUpdate cho physics
+    void FixedUpdate()      
     {
         MoveHorizontally();
     }
@@ -28,10 +28,8 @@ public class HamburgerEnemy : MonoBehaviour
     {
         float moveDirection = movingRight ? 1 : -1;
 
-        // Set velocity để di chuyển theo trục X
         rb.linearVelocity = new Vector2(moveDirection * speed, rb.linearVelocity.y);
 
-        // Animation theo hướng
         if (movingRight)
         {
             animator.Play("HamburgerWalkRight");
@@ -41,7 +39,6 @@ public class HamburgerEnemy : MonoBehaviour
             animator.Play("HamburgerWalkLeft");
         }
 
-        // Đổi hướng nếu đi quá ranh giới
         if (movingRight && transform.position.x >= pointB.position.x)
         {
             movingRight = false;

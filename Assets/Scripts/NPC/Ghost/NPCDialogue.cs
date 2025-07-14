@@ -29,6 +29,10 @@ public class NPCDialogue : MonoBehaviour
     public TextMeshProUGUI speakerNameText;
     public UnityEngine.UI.Image avatarImage;
 
+    [Header("Event After Dialogue")]
+    public GameObject objectToActivateAfterDialogue;
+    private bool hasActivatedEvent = false;
+
     void OnEnable()
     {
         if (PlayerInputHandler.Instance != null)
@@ -53,7 +57,6 @@ public class NPCDialogue : MonoBehaviour
         }
         else if (isTyping)
         {
-            // Skip typing effect instantly
             SkipTyping();
         }
         else
@@ -68,7 +71,6 @@ public class NPCDialogue : MonoBehaviour
         currentLine = 0;
         dialogueUI.SetActive(true);
 
-        // Hiện tên và avatar
         if (speakerNameText != null)
             speakerNameText.text = speakerName;
 
@@ -77,7 +79,6 @@ public class NPCDialogue : MonoBehaviour
 
         StartTyping(dialogueLines[currentLine]);
     }
-
 
     void NextLine()
     {
@@ -98,6 +99,12 @@ public class NPCDialogue : MonoBehaviour
         dialogueUI.SetActive(false);
         isTyping = false;
         currentLine = 0;
+
+        if (!hasActivatedEvent && objectToActivateAfterDialogue != null)
+        {
+            objectToActivateAfterDialogue.SetActive(true);
+            hasActivatedEvent = true;
+        }
     }
 
     void StartTyping(string line)
@@ -113,7 +120,6 @@ public class NPCDialogue : MonoBehaviour
         isTyping = true;
         dialogueText.text = "";
 
-        // Bắt đầu phát âm thanh loop khi typing bắt đầu
         if (typingSound != null && audioSource != null)
         {
             audioSource.clip = typingSound;
@@ -127,7 +133,6 @@ public class NPCDialogue : MonoBehaviour
             yield return new WaitForSeconds(typingSpeed);
         }
 
-        // Ngừng âm thanh sau khi typing xong
         if (audioSource != null && audioSource.isPlaying)
         {
             audioSource.Stop();
@@ -144,14 +149,12 @@ public class NPCDialogue : MonoBehaviour
         dialogueText.text = dialogueLines[currentLine];
         isTyping = false;
 
-        // Ngắt âm thanh nếu skip giữa chừng
         if (audioSource != null && audioSource.isPlaying)
         {
             audioSource.Stop();
             audioSource.loop = false;
         }
     }
-
 
     void OnTriggerEnter2D(Collider2D other)
     {

@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerController : MonoBehaviour
@@ -32,6 +33,8 @@ public class PlayerController : MonoBehaviour
     public AudioClip jumpSound;
     private AudioSource audioSource;
 
+    public static event Action OnPlayerLanded;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -54,7 +57,11 @@ public class PlayerController : MonoBehaviour
         if (isGrounded && !wasGrounded)
         {
             jumpCount = 0;
+
+            OnPlayerLanded?.Invoke();
         }
+
+
         wasGrounded = isGrounded;
 
         if (jumpPressed && jumpCount < maxJumps && Time.time - lastJumpTime >= jumpCooldown)
@@ -149,13 +156,13 @@ public class PlayerController : MonoBehaviour
         canMove = false;
         moveInput = 0f;
         rb.linearVelocity = Vector2.zero;
-        Debug.Log("[PlayerController] 🚫 Movement disabled");
+        Debug.Log("[PlayerController] Movement disabled");
     }
 
     public void EnableMovement()
     {
         canMove = true;
-        Debug.Log("[PlayerController] ✅ Movement enabled");
+        Debug.Log("[PlayerController] Movement enabled");
     }
 
     void OnDrawGizmosSelected()

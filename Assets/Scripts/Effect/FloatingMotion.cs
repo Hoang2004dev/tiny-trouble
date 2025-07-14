@@ -2,8 +2,8 @@
 
 public class FloatingMotion : MonoBehaviour
 {
-    public float amplitude = 20f;       // Độ cao lên xuống (đơn vị pixel)
-    public float frequency = 1f;        // Tốc độ nhịp chuyển động
+    public float amplitude = 20f;       // đ6ộ cao lên xuống (pixel)
+    public float frequency = 1f;        // tốcc độ nhịp chuyển động
 
     private Vector3 startPos;
 

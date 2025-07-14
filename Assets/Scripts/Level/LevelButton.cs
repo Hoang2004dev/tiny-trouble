@@ -26,7 +26,7 @@ public class LevelButton : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning($"[LevelButton] ⚠️ Bạn chưa gán `targetText` cho button {gameObject.name}!");
+            Debug.LogWarning($"[LevelButton] Chưa gán `targetText` cho button {gameObject.name}!");
         }
     }
 

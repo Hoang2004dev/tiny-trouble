@@ -9,7 +9,7 @@ public class PlayerHealth : MonoBehaviour
     private int currentHealth;
 
     [Header("Hiển thị UI")]
-    public HealthUIManager healthUI; // Kéo từ Inspector
+    public HealthUIManager healthUI;
 
     [Header("Tạm thời bất tử")]
     public float invincibleDuration = 1f;
@@ -89,12 +89,12 @@ public class PlayerHealth : MonoBehaviour
 
             while (elapsed < invincibleDuration)
             {
-                sprite.enabled = !sprite.enabled; // Nhấp nháy
+                sprite.enabled = !sprite.enabled; 
                 yield return new WaitForSeconds(blinkInterval);
                 elapsed += blinkInterval;
             }
 
-            sprite.enabled = true; // Bật lại chắc chắn
+            sprite.enabled = true; 
         }
         else
         {
@@ -108,27 +108,21 @@ public class PlayerHealth : MonoBehaviour
     {
         Debug.Log("Player Died!");
 
-        // 🔴 Ngắt camera follow
         CinemachineCamera cam = FindFirstObjectByType<CinemachineCamera>();
         if (cam != null && cam.Follow != null)
         {
             cam.Follow = null;
-            Debug.Log("[Camera] ✅ Dừng follow Player sau khi chết");
         }
 
-        // 1. Gọi animation Die
         if (animator != null)
             animator.SetTrigger("PlayerDie");
 
-        // 2. Vô hiệu hóa input và di chuyển
         GetComponent<PlayerController>().enabled = false;
 
-        // 3. Tắt tất cả collider (kể cả con)
         Collider2D[] colliders = GetComponentsInChildren<Collider2D>();
         foreach (Collider2D col in colliders)
             col.enabled = false;
 
-        // 4. Tạo lực đẩy ngẫu nhiên
         Rigidbody2D rb = GetComponent<Rigidbody2D>();
         if (rb != null)
         {
@@ -144,7 +138,6 @@ public class PlayerHealth : MonoBehaviour
             rb.gravityScale = 1.5f;
         }
 
-        // 5. Gọi restart sau vài giây
         Invoke(nameof(RestartLevel), 2f);
     }
 

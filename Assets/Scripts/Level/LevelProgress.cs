@@ -10,7 +10,7 @@ public static class LevelProgress
 
     public static bool IsLevelUnlocked(string levelName)
     {
-        // Mặc định Level1 được mở sẵn
+        // mặc định mở Level1
         return PlayerPrefs.GetInt(levelName + "_Unlocked", levelName == "Lv1" ? 1 : 0) == 1;
     }
 }

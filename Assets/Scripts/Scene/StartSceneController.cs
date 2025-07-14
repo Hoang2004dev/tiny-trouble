@@ -39,7 +39,6 @@ public class StartSceneController : MonoBehaviour
         if ((Mouse.current != null && Mouse.current.leftButton.wasPressedThisFrame)
             || (Touchscreen.current != null && Touchscreen.current.primaryTouch.press.wasPressedThisFrame))
         {
-            Debug.Log("[StartSceneController] 🖱️ Hoặc 👆 Tap phát hiện → LoadNextScene()");
             LoadNextScene();
         }
     }
@@ -65,7 +64,6 @@ public class StartSceneController : MonoBehaviour
         if (loadingStarted) return;
 
         loadingStarted = true;
-        Debug.Log("[StartSceneController] 🎯 LoadNextScene called!");
         SceneManager.LoadScene("LevelSelectScene");
     }
 }

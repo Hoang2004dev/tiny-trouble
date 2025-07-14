@@ -2,7 +2,7 @@
 
 public class SawMoverLoop : MonoBehaviour
 {
-    public Transform[] waypoints; // Các điểm A → B → C → D
+    public Transform[] waypoints; // A → B → C → D
     public float speed = 2f;
 
     private int currentTargetIndex = 0;

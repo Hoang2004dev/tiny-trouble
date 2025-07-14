@@ -3,20 +3,20 @@
 public class NPCEmojiController : MonoBehaviour
 {
     [Header("Emoji hiển thị")]
-    public GameObject emojiObject; // Object chứa Sprite + Animator
+    public GameObject emojiObject; 
 
     private Animator emojiAnimator;
     private bool isPlayerNear = false;
 
     [Header("Tên trigger để chạy animation (tùy emoji)")]
-    public string animationTrigger = "Pop"; // Mỗi emoji dùng animation riêng
+    public string animationTrigger = "Pop"; 
 
     void Start()
     {
         if (emojiObject != null)
         {
             emojiAnimator = emojiObject.GetComponent<Animator>();
-            emojiObject.SetActive(false); // ẩn lúc đầu
+            emojiObject.SetActive(false); 
         }
     }
 
@@ -29,7 +29,7 @@ public class NPCEmojiController : MonoBehaviour
             emojiObject.SetActive(true);
             if (emojiAnimator != null && !string.IsNullOrEmpty(animationTrigger))
             {
-                emojiAnimator.SetTrigger(animationTrigger); // Cho phép dùng trigger riêng
+                emojiAnimator.SetTrigger(animationTrigger); 
             }
         }
     }

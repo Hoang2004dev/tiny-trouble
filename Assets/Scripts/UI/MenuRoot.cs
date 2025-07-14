@@ -16,14 +16,12 @@ public class MenuRoot : MonoBehaviour
         {
             Instance = this;
             DontDestroyOnLoad(gameObject);
-            Debug.Log("[MenuRoot] ✅ Singleton instance giữ lại qua scene.");
+            Debug.Log("[MenuRoot] Singleton instance.");
 
-            // Đăng ký lắng nghe khi scene mới load xong
             SceneManager.sceneLoaded += OnSceneLoaded;
         }
         else if (Instance != this)
         {
-            Debug.LogWarning("[MenuRoot] ⚠️ Duplicate MenuRoot bị huỷ.");
             Destroy(gameObject);
         }
     }
@@ -38,11 +36,8 @@ public class MenuRoot : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        Debug.Log($"[MenuRoot] ✅ Scene loaded: {scene.name}. Xử lý bật/tắt, nút, camera, sorting.");
-
         if (scene.name == "StartScene")
         {
-            Debug.Log("[MenuRoot] 📴 Ẩn MenuRoot trong StartScene.");
             gameObject.SetActive(false);
             return;
         }
@@ -63,15 +58,13 @@ public class MenuRoot : MonoBehaviour
         {
             btn.interactable = true;
         }
-
-        Debug.Log("[MenuRoot] ✅ Tất cả nút trong MenuRoot đã bật lại interactable.");
     }
 
     private void UpdateCanvasCamera()
     {
         if (menuCanvas == null)
         {
-            Debug.LogWarning("[MenuRoot] ⚠️ MenuCanvas chưa được gán trong inspector!");
+            Debug.LogWarning("[MenuRoot] MenuCanvas chưa được gán trong inspector!");
             return;
         }
 
@@ -79,11 +72,10 @@ public class MenuRoot : MonoBehaviour
         if (mainCam != null)
         {
             menuCanvas.worldCamera = mainCam;
-            Debug.Log($"[MenuRoot] ✅ Canvas Camera đã set thành MainCamera của scene: {mainCam.name}");
         }
         else
         {
-            Debug.LogWarning("[MenuRoot] ⚠️ Không tìm thấy MainCamera trong scene!");
+            Debug.LogWarning("[MenuRoot] Không tìm thấy MainCamera trong scene!");
         }
     }
 
@@ -91,13 +83,11 @@ public class MenuRoot : MonoBehaviour
     {
         if (menuCanvas == null)
         {
-            Debug.LogWarning("[MenuRoot] ⚠️ MenuCanvas chưa được gán trong inspector!");
+            Debug.LogWarning("[MenuRoot] MenuCanvas chưa được gán trong inspector!");
             return;
         }
 
-        menuCanvas.sortingLayerName = "Player";  // Hoặc tên layer bạn muốn
-        menuCanvas.sortingOrder = 10;        // Hoặc thứ tự bạn muốn
-
-        Debug.Log($"[MenuRoot] ✅ Đã set SortingLayer = {menuCanvas.sortingLayerName}, Order = {menuCanvas.sortingOrder}");
+        menuCanvas.sortingLayerName = "Player";  
+        menuCanvas.sortingOrder = 10;        
     }
 }

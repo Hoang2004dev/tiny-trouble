@@ -4,10 +4,10 @@ using UnityEngine.SceneManagement;
 
 public class Portal : MonoBehaviour
 {
-    [Header("Tên màn chơi cần mở khóa")]
+    [Header("Tên scene cần mở khóa")]
     public string levelToUnlock;
 
-    [Header("Tên màn chơi sẽ load (nếu có)")]
+    [Header("Tên scene sẽ load")]
     public string levelToLoad;
 
     private bool isPlayerInRange = false;
@@ -18,7 +18,6 @@ public class Portal : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             isPlayerInRange = true;
-            Debug.Log("[Portal] Player vào vùng portal");
 
             if (PlayerInputHandler.Instance != null)
             {
@@ -91,13 +90,6 @@ public class Portal : MonoBehaviour
 
         PlayerHealth.isTransitioning = true;
 
-        if (PlayerInputHandler.Instance != null)
-            PlayerInputHandler.Instance.enabled = false;
-
-        var movementScript = player.GetComponent<PlayerController>();
-        if (movementScript != null)
-            movementScript.enabled = false;
-
         Rigidbody2D rb = player.GetComponent<Rigidbody2D>();
         bool hadFreezeRotation = false;
         if (rb != null)
@@ -152,24 +144,7 @@ public class Portal : MonoBehaviour
         }
 
         LevelProgress.UnlockLevel(levelToUnlock);
-        ScenePersist.Instance.shouldPlayExitTransition = true;
 
-        Debug.Log("[Portal] Đã hoàn tất hiệu ứng, chuẩn bị chuyển scene: " + levelToLoad);
-
-        TransitionManager tm = FindFirstObjectByType<TransitionManager>();
-        if (tm != null)
-        {
-            Debug.Log("[Portal] Tìm thấy TransitionManager, chạy hiệu ứng Enter");
-            tm.Play(TransitionType.Enter, () =>
-            {
-                Debug.Log("[Portal] Gọi LoadScene: " + levelToLoad);
-                SceneManager.LoadScene(levelToLoad);
-            });
-        }
-        else
-        {
-            Debug.LogWarning("[Portal] Không tìm thấy TransitionManager, load scene trực tiếp");
-            SceneManager.LoadScene(levelToLoad);
-        }
+        SceneManager.LoadScene(levelToLoad);
     }
 }

@@ -23,7 +23,6 @@ public class InfiniteTiledParallaxWrapped : MonoBehaviour
         SpriteRenderer sr = GetComponent<SpriteRenderer>();
         if (sr == null || sr.sprite == null)
         {
-            Debug.LogError("SpriteRenderer or Sprite is missing!");
             return;
         }
 
@@ -43,9 +42,6 @@ public class InfiniteTiledParallaxWrapped : MonoBehaviour
                 tiles[x, y] = tile;
             }
         }
-
-        // Keep the original GameObject active unless it's not meant to be visible
-        // gameObject.SetActive(false);
     }
 
     void LateUpdate()
@@ -93,5 +89,4 @@ public class InfiniteTiledParallaxWrapped : MonoBehaviour
             }
         }
     }
-
 }

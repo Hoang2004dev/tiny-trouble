@@ -3,7 +3,6 @@ using UnityEngine;
 public class ScenePersist : MonoBehaviour
 {
     public static ScenePersist Instance { get; private set; }
-    public bool shouldPlayExitTransition = false;
 
     private void Awake()
     {
