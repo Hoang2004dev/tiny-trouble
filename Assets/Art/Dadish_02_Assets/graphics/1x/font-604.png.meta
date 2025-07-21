@@ -178,6 +178,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -722,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      font-604_0: -7298526696782618081
+      font-604_1: -6948592893126736797
+      font-604_10: 5960955400663499974
+      font-604_11: -1486297847802672938
+      font-604_12: 6923873928087885801
+      font-604_13: -5773170144068592088
+      font-604_14: -4111880843575295099
+      font-604_15: 3776531790849651298
+      font-604_16: -5648299361843764138
+      font-604_17: 255381047527918192
+      font-604_18: 1349299875957298678
+      font-604_19: -1728284850317190292
+      font-604_2: -7234753326729026089
+      font-604_20: 989236484465140678
+      font-604_21: 4025278661165915717
+      font-604_22: -2701273875558448992
+      font-604_23: 1146727540206199030
+      font-604_3: -2420398523517266868
+      font-604_4: 967214883149306720
+      font-604_5: -5745898680541737579
+      font-604_6: 163632189010479229
+      font-604_7: 155400456373215180
+      font-604_8: -1106763224654572590
+      font-604_9: -9076158731531309918
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

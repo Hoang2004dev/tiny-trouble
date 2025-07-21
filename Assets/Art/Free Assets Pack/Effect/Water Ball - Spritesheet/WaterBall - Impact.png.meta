@@ -265,6 +265,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1447,7 +1460,60 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WaterBall - Impact_0: 7137302222193065625
+      WaterBall - Impact_1: -9133753988229148585
+      WaterBall - Impact_10: -8909453327832220519
+      WaterBall - Impact_11: -2477363543820685342
+      WaterBall - Impact_12: -2151723371419578418
+      WaterBall - Impact_13: 5685115777171652607
+      WaterBall - Impact_14: -1012992675655568911
+      WaterBall - Impact_15: -1135733629947606084
+      WaterBall - Impact_16: -5797972781693364805
+      WaterBall - Impact_17: -5203457477961058587
+      WaterBall - Impact_18: 94665528950007817
+      WaterBall - Impact_19: -7213508316181168820
+      WaterBall - Impact_2: -5593837395589496270
+      WaterBall - Impact_20: 9042574031210874010
+      WaterBall - Impact_21: 8229721817597969476
+      WaterBall - Impact_22: -7553496025616930253
+      WaterBall - Impact_23: 7654073464790383290
+      WaterBall - Impact_24: -3392780405974827720
+      WaterBall - Impact_25: -7634647455962091097
+      WaterBall - Impact_26: -1872131953342251640
+      WaterBall - Impact_27: -7842641231818959948
+      WaterBall - Impact_28: 2455738563202801167
+      WaterBall - Impact_29: 8108042532976448721
+      WaterBall - Impact_3: 6645030169266538128
+      WaterBall - Impact_30: 4064822969476897753
+      WaterBall - Impact_31: 3569505595722332260
+      WaterBall - Impact_32: -7473051662304648319
+      WaterBall - Impact_33: -8238065694619943569
+      WaterBall - Impact_34: -9151982498190638236
+      WaterBall - Impact_35: 7351890015444393907
+      WaterBall - Impact_36: 5903796865264073760
+      WaterBall - Impact_37: 4856790613823919483
+      WaterBall - Impact_38: -5049118463015295970
+      WaterBall - Impact_39: 2459480869737552471
+      WaterBall - Impact_4: -1661517879463943119
+      WaterBall - Impact_40: -3473287515206119367
+      WaterBall - Impact_41: 5115282445399355884
+      WaterBall - Impact_42: -4037695184994914883
+      WaterBall - Impact_43: 6466805661092326117
+      WaterBall - Impact_44: -7332554145199973734
+      WaterBall - Impact_45: 7572254236479660603
+      WaterBall - Impact_46: 4110384487817389578
+      WaterBall - Impact_47: -7427851985084113013
+      WaterBall - Impact_48: 2855106875961624479
+      WaterBall - Impact_49: 3844218724780219829
+      WaterBall - Impact_5: -5932098213838208203
+      WaterBall - Impact_50: 2146203730665796267
+      WaterBall - Impact_51: -1821284463262348905
+      WaterBall - Impact_52: -9168342206832706227
+      WaterBall - Impact_6: 958537925572860763
+      WaterBall - Impact_7: 1841742937072378158
+      WaterBall - Impact_8: 6269946784342005733
+      WaterBall - Impact_9: -8871709127175419947
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

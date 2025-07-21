@@ -127,6 +127,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -297,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_enemy_sandbug_spawn_0: 6614099273794626638
+      character_enemy_sandbug_spawn_1: -8973459206612603730
+      character_enemy_sandbug_spawn_2: -3863289484694477900
+      character_enemy_sandbug_spawn_3: -292008268161475093
+      character_enemy_sandbug_spawn_4: -9038562626143801866
+      character_enemy_sandbug_spawn_5: -5588616544739271926
+      character_enemy_sandbug_spawn_6: -8777619187406866041
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

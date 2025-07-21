@@ -139,6 +139,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -397,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin15_raccoon_0: 2458030422930437187
+      1_skin15_raccoon_1: -8238473328522407095
+      1_skin15_raccoon_10: -4411453253749946630
+      1_skin15_raccoon_2: 8030360694073808531
+      1_skin15_raccoon_3: 7033338514544208480
+      1_skin15_raccoon_4: 6505250311453806569
+      1_skin15_raccoon_5: 3128098644782152823
+      1_skin15_raccoon_6: 3850761810866654514
+      1_skin15_raccoon_7: 2576437253683507190
+      1_skin15_raccoon_8: -3460652464271250593
+      1_skin15_raccoon_9: 4254731453576195200
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -127,6 +127,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -297,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vegetation_grass_small_0: -5017465011415149248
+      vegetation_grass_small_1: -563972424686991614
+      vegetation_grass_small_2: 4393107804747377212
+      vegetation_grass_small_3: 7055020248018282001
+      vegetation_grass_small_4: -3885913902918524894
+      vegetation_grass_small_5: -2534228660095413783
+      vegetation_grass_small_6: -1488043089930193914
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

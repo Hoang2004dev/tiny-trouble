@@ -133,6 +133,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -347,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Speech_Emotes (16 x 16)_0: 8862161151565122545
+      Speech_Emotes (16 x 16)_1: 8234179704075312592
+      Speech_Emotes (16 x 16)_2: -1279461750136515348
+      Speech_Emotes (16 x 16)_3: 4893958454254869775
+      Speech_Emotes (16 x 16)_4: -2341262979796990598
+      Speech_Emotes (16 x 16)_5: 7902533402744816643
+      Speech_Emotes (16 x 16)_6: 8454114107504022404
+      Speech_Emotes (16 x 16)_7: -8429255931891344929
+      Speech_Emotes (16 x 16)_8: 6836037258137598126
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

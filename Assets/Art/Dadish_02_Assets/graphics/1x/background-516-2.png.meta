@@ -289,6 +289,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1647,7 +1660,68 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      background-516-2_0: 4795466627651767465
+      background-516-2_1: 2980873131698164739
+      background-516-2_10: -386772623374052897
+      background-516-2_11: -6581855979737073348
+      background-516-2_12: -1397112427654919222
+      background-516-2_13: 6504111144338169764
+      background-516-2_14: -7335064766817150883
+      background-516-2_15: 1172450227866778004
+      background-516-2_16: -8197321437379432920
+      background-516-2_17: -3029636855031695344
+      background-516-2_18: -7995493742550196577
+      background-516-2_19: -6596723639523771675
+      background-516-2_2: 1503748043737310496
+      background-516-2_20: -4393352394995987673
+      background-516-2_21: 2127171889014332779
+      background-516-2_22: -7890169782987178290
+      background-516-2_23: -730989866620644062
+      background-516-2_24: 2820613085276613142
+      background-516-2_25: 829736945005753692
+      background-516-2_26: -922210230126674812
+      background-516-2_27: 4433600402836341407
+      background-516-2_28: 6987110411534502918
+      background-516-2_29: -2069265999151581621
+      background-516-2_3: -4197310260988193734
+      background-516-2_30: 8772451129179092143
+      background-516-2_31: -7189566608231458100
+      background-516-2_32: -2585746686292673922
+      background-516-2_33: 6100013854493042580
+      background-516-2_34: -8183249163540059770
+      background-516-2_35: -1661577617106016430
+      background-516-2_36: 5164463434841828494
+      background-516-2_37: 1716460463013158240
+      background-516-2_38: 7521827046799458765
+      background-516-2_39: -4478052721050908098
+      background-516-2_4: 7496718535083469194
+      background-516-2_40: 4077262281226271673
+      background-516-2_41: -1857761820995467219
+      background-516-2_42: -6690362366469476157
+      background-516-2_43: -5430666191936841459
+      background-516-2_44: -8410987001848005558
+      background-516-2_45: 6704732980274004448
+      background-516-2_46: -4822046572964309692
+      background-516-2_47: -1200242368760182675
+      background-516-2_48: 4550295942361267564
+      background-516-2_49: -6331219095388532455
+      background-516-2_5: 742211774960065139
+      background-516-2_50: 6843563330930121900
+      background-516-2_51: 4617291706522817588
+      background-516-2_52: -7901764568852285039
+      background-516-2_53: -1934240487612917048
+      background-516-2_54: 5926068438834731785
+      background-516-2_55: 2363937873828139755
+      background-516-2_56: 3400963434913617772
+      background-516-2_57: -3865482389121268047
+      background-516-2_58: -9165623630730396843
+      background-516-2_59: 4233431873686944037
+      background-516-2_6: -2069111320218938003
+      background-516-2_60: 5829612840910317800
+      background-516-2_7: -7912499639608193371
+      background-516-2_8: -1037955885837088072
+      background-516-2_9: -279319974458133349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

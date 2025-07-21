@@ -139,6 +139,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -397,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin120_sacabambaspis_0: -8614812728474917302
+      1_skin120_sacabambaspis_1: -6884227270298082912
+      1_skin120_sacabambaspis_10: 4910874460192099163
+      1_skin120_sacabambaspis_2: -6020728730585262419
+      1_skin120_sacabambaspis_3: 7464263516241711030
+      1_skin120_sacabambaspis_4: 2342528135268354749
+      1_skin120_sacabambaspis_5: 7602258831458925747
+      1_skin120_sacabambaspis_6: -5931383462964962265
+      1_skin120_sacabambaspis_7: -4737611860621393744
+      1_skin120_sacabambaspis_8: -1712632214209818069
+      1_skin120_sacabambaspis_9: 1664899186295727347
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

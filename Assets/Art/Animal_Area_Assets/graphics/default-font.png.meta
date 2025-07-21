@@ -358,6 +358,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2222,7 +2235,91 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      default-font_0: 3946178918035982356
+      default-font_1: 3503731792621737474
+      default-font_10: 7032234378968246438
+      default-font_11: -7336896830878714755
+      default-font_12: 876751778224983509
+      default-font_13: -8494019192708726433
+      default-font_14: 7937393721751324701
+      default-font_15: 2290758245636902738
+      default-font_16: -5471495209722198534
+      default-font_17: -5535046814261301711
+      default-font_18: 5598746996691672437
+      default-font_19: 2366050922602429078
+      default-font_2: -1626499156473310386
+      default-font_20: 2092992747835499602
+      default-font_21: 4728602064586197466
+      default-font_22: -4234216005413044946
+      default-font_23: -5910570009981134245
+      default-font_24: -4395287127864608322
+      default-font_25: 2980207765094440525
+      default-font_26: -8014201026354413679
+      default-font_27: -9189464891878160962
+      default-font_28: 2330352392246836002
+      default-font_29: 5723886791210242555
+      default-font_3: -7333296968876369442
+      default-font_30: 4127778222340205752
+      default-font_31: 8600335474558265456
+      default-font_32: 3993123482015539738
+      default-font_33: 7060555315002185837
+      default-font_34: -6613069113160805127
+      default-font_35: 6366946202680111336
+      default-font_36: 5545337859452364292
+      default-font_37: -5331329826640036198
+      default-font_38: -6544466900259103323
+      default-font_39: -3145899701190693377
+      default-font_4: -8948396448943567040
+      default-font_40: -5427005111810717219
+      default-font_41: 3031322308327896601
+      default-font_42: 8723003389282299074
+      default-font_43: 949429665753893263
+      default-font_44: 9112225511188856817
+      default-font_45: -4090909727213569667
+      default-font_46: -2954671670558075642
+      default-font_47: 6165887289839955709
+      default-font_48: -7073184052007965641
+      default-font_49: 1231695554021548312
+      default-font_5: -4878476067191818934
+      default-font_50: 8468402533939623599
+      default-font_51: -1794078617633625843
+      default-font_52: -7497237541397708361
+      default-font_53: -4096172930848452946
+      default-font_54: -581814022188302733
+      default-font_55: 4867711808210846031
+      default-font_56: -39527870551775034
+      default-font_57: -543336481521757978
+      default-font_58: -5881664854148981392
+      default-font_59: 5877210453155019156
+      default-font_6: -6630388739279026246
+      default-font_60: 1848389711960646314
+      default-font_61: -5071083945188932184
+      default-font_62: -7849822398549317709
+      default-font_63: -1392922068433367668
+      default-font_64: -2693213857541872778
+      default-font_65: 1364019970139673280
+      default-font_66: 3032428871899664157
+      default-font_67: -5685991852674761200
+      default-font_68: 3422023641428710772
+      default-font_69: 4535206034477492458
+      default-font_7: -3339110183414887455
+      default-font_70: 2464251791243374013
+      default-font_71: 4031052140332296758
+      default-font_72: -7833418510704277585
+      default-font_73: -2081823013088179243
+      default-font_74: -6175359909842309016
+      default-font_75: -6273431601766552206
+      default-font_76: 3241330386312054115
+      default-font_77: -5894794969400622238
+      default-font_78: -7329051441664949717
+      default-font_79: 3014120534444653145
+      default-font_8: -8946838874416932373
+      default-font_80: 1807484295062196452
+      default-font_81: 1024632977916757180
+      default-font_82: 7160442733162107285
+      default-font_83: -6946062743948613007
+      default-font_9: -479940097759425483
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

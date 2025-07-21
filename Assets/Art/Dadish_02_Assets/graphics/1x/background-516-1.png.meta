@@ -199,6 +199,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -897,7 +910,38 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      background-516-1_0: -8563044963152058092
+      background-516-1_1: -7144293152167714793
+      background-516-1_10: -2437670417974097320
+      background-516-1_11: 7823168062086895103
+      background-516-1_12: 3207169645569538777
+      background-516-1_13: 5730957836609805326
+      background-516-1_14: 55423642437830195
+      background-516-1_15: -1791408268402448935
+      background-516-1_16: 6652941624377118486
+      background-516-1_17: 1535263683737259367
+      background-516-1_18: 4462487206232799376
+      background-516-1_19: -1230009313847187676
+      background-516-1_2: 8446700948684031658
+      background-516-1_20: -5962428271598547806
+      background-516-1_21: 3198995133442582881
+      background-516-1_22: 2654021737453569162
+      background-516-1_23: 8990993925892725607
+      background-516-1_24: 3392030889306926795
+      background-516-1_25: -6364586692401646361
+      background-516-1_26: 6208586363653596670
+      background-516-1_27: -5369290528691080588
+      background-516-1_28: -5803713261223205235
+      background-516-1_29: -5919684207872952180
+      background-516-1_3: 4601626417294831183
+      background-516-1_30: -3358881106239714787
+      background-516-1_4: -9167920346163398931
+      background-516-1_5: -4767671085486512286
+      background-516-1_6: 1762896881265562218
+      background-516-1_7: 8292114244453453023
+      background-516-1_8: -1397192417931377253
+      background-516-1_9: 2118738507725837191
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

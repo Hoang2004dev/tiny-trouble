@@ -250,6 +250,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1322,7 +1335,55 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      font-1052_0: -3869259863005918479
+      font-1052_1: -5629920333853912561
+      font-1052_10: 696402403078081289
+      font-1052_11: 4499281613091733243
+      font-1052_12: 517335587771725680
+      font-1052_13: 7215122131099269287
+      font-1052_14: 3714483373341874964
+      font-1052_15: 338044560943243543
+      font-1052_16: 5273414180981091028
+      font-1052_17: -3787101535953340824
+      font-1052_18: 992368321067565837
+      font-1052_19: -7906567276032159152
+      font-1052_2: -8913950636882514577
+      font-1052_20: 2107120212289260148
+      font-1052_21: 4254603595681882708
+      font-1052_22: -845839023771900752
+      font-1052_23: -5130929170251403858
+      font-1052_24: -7688525517842583609
+      font-1052_25: -3260902470891479501
+      font-1052_26: -2317484129867664061
+      font-1052_27: 4377236187183837078
+      font-1052_28: -970660020301183129
+      font-1052_29: 2672839987221702822
+      font-1052_3: 5221978858167108675
+      font-1052_30: 2629557900533522637
+      font-1052_31: -7150988723921469473
+      font-1052_32: -928199829111431056
+      font-1052_33: -9184168764732452486
+      font-1052_34: -1760918586485782204
+      font-1052_35: 1410488122682445781
+      font-1052_36: 3867787940298308861
+      font-1052_37: 1010179141563636792
+      font-1052_38: -2918962115872169510
+      font-1052_39: 1346642762196172947
+      font-1052_4: 1912394018889449691
+      font-1052_40: -5111824261377116993
+      font-1052_41: -1483415941281210060
+      font-1052_42: 562478927568079889
+      font-1052_43: 1206608130645661166
+      font-1052_44: 3864241271399219788
+      font-1052_45: -4530900044657898315
+      font-1052_46: -6658764795162958378
+      font-1052_47: 5267915403860544176
+      font-1052_5: 7318890174949170309
+      font-1052_6: 4151023840718549226
+      font-1052_7: 8027790574274199905
+      font-1052_8: -8494290934313283078
+      font-1052_9: 705163076147354668
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
