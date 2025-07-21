@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ice_Cream_Cones (16 x 16)_0: -6590985338187953912
+      Ice_Cream_Cones (16 x 16)_1: 8978392066270697507
+      Ice_Cream_Cones (16 x 16)_2: -5740398339316451092
+      Ice_Cream_Cones (16 x 16)_3: -1079044907142330297
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

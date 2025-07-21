@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin105_luckycat_0: -1298814178579918211
+      1_skin105_luckycat_1: -661422897939979188
+      1_skin105_luckycat_10: -1404430395327417416
+      1_skin105_luckycat_2: 5369466877410040238
+      1_skin105_luckycat_3: -7108606906230937262
+      1_skin105_luckycat_4: -1737753249119981417
+      1_skin105_luckycat_5: -8805236727928622761
+      1_skin105_luckycat_6: 4049031209500959212
+      1_skin105_luckycat_7: -7681757125770383257
+      1_skin105_luckycat_8: -196594970065812776
+      1_skin105_luckycat_9: -3360852354978291645
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

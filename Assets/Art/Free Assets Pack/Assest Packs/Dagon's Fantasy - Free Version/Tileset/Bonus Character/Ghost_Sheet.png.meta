@@ -822,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost_Sheet_0: -9189528174537733923
+      Ghost_Sheet_1: -2743594528043711760
+      Ghost_Sheet_10: 5035206083308940589
+      Ghost_Sheet_11: 592747640824929814
+      Ghost_Sheet_12: -981084629229278758
+      Ghost_Sheet_13: 8455327773518578041
+      Ghost_Sheet_14: 2234219056049773833
+      Ghost_Sheet_15: -6753300779318480065
+      Ghost_Sheet_16: 1786712069413792330
+      Ghost_Sheet_17: -5666960777827879266
+      Ghost_Sheet_18: -5486042023020868010
+      Ghost_Sheet_19: 8981162725101673780
+      Ghost_Sheet_2: -6972176963067524765
+      Ghost_Sheet_20: -1804841284411601976
+      Ghost_Sheet_21: -5138526976234851244
+      Ghost_Sheet_22: -6404569984898991887
+      Ghost_Sheet_23: -3666377673844880930
+      Ghost_Sheet_24: 8655299022496638062
+      Ghost_Sheet_25: 1047955300509770336
+      Ghost_Sheet_26: 9135132885325738684
+      Ghost_Sheet_27: 823877227368358588
+      Ghost_Sheet_3: 6190218165312121654
+      Ghost_Sheet_4: -7764668166117977177
+      Ghost_Sheet_5: 2410586253418369592
+      Ghost_Sheet_6: 6625158439247772820
+      Ghost_Sheet_7: -2019375493264571024
+      Ghost_Sheet_8: 2996214418258186193
+      Ghost_Sheet_9: -3745829279650085373
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

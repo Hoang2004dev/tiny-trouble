@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin42_kiwi_0: -2938302626458723332
+      1_skin42_kiwi_1: 1451008901993083683
+      1_skin42_kiwi_10: -1312790371822906745
+      1_skin42_kiwi_2: -8466775525955528437
+      1_skin42_kiwi_3: -1990827069207731217
+      1_skin42_kiwi_4: 1913340555887000531
+      1_skin42_kiwi_5: 7279120812813844365
+      1_skin42_kiwi_6: 8755843322566211184
+      1_skin42_kiwi_7: 4981204040872029143
+      1_skin42_kiwi_8: 5582893048290333852
+      1_skin42_kiwi_9: 3191416310848553803
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

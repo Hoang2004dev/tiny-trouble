@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin57_wolf_0: 6451302890378574500
+      1_skin57_wolf_1: 2673779116111565970
+      1_skin57_wolf_10: 5349719979330884700
+      1_skin57_wolf_2: -383716637915027675
+      1_skin57_wolf_3: 8384707472464822806
+      1_skin57_wolf_4: 6513657693608159225
+      1_skin57_wolf_5: 3684409018253410782
+      1_skin57_wolf_6: 4825645707734384948
+      1_skin57_wolf_7: -8126675334009542431
+      1_skin57_wolf_8: 6444825775738496040
+      1_skin57_wolf_9: 3601684491217721402
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

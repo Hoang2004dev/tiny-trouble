@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin87_anteater_0: -6868053916910770582
+      1_skin87_anteater_1: -4609188757628361059
+      1_skin87_anteater_10: 1617529483337599941
+      1_skin87_anteater_2: -954311922804821873
+      1_skin87_anteater_3: 3357402427848402570
+      1_skin87_anteater_4: 1400884989433319054
+      1_skin87_anteater_5: -662613719409366742
+      1_skin87_anteater_6: -3172999111515984611
+      1_skin87_anteater_7: -1494945543921665723
+      1_skin87_anteater_8: -7856476275927470537
+      1_skin87_anteater_9: -7413072809170847098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

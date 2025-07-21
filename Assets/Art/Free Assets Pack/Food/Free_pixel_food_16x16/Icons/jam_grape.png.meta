@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      jam_grape_0: 214484650954321945
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost_Hurt_0: -1947181051496701444
+      Ghost_Hurt_1: 1129789170267091305
+      Ghost_Hurt_2: 8505266899394309113
+      Ghost_Hurt_3: 3125571731352077454
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

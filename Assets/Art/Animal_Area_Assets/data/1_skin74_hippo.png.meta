@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin74_hippo_0: -45618233674766512
+      1_skin74_hippo_1: 1006407621781245497
+      1_skin74_hippo_10: 7356570240064051699
+      1_skin74_hippo_2: 7150520203470302729
+      1_skin74_hippo_3: -8622990215706317068
+      1_skin74_hippo_4: -4729574318089032253
+      1_skin74_hippo_5: 5351468986958087553
+      1_skin74_hippo_6: -8146549710802190773
+      1_skin74_hippo_7: -7278568606066991961
+      1_skin74_hippo_8: -3961895558662671501
+      1_skin74_hippo_9: 8290604581124334081
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin71_panther_0: -8942189929542232834
+      1_skin71_panther_1: 5300557087519336797
+      1_skin71_panther_10: 2135199016400260545
+      1_skin71_panther_2: 7575289642106961152
+      1_skin71_panther_3: -5443679760382491058
+      1_skin71_panther_4: -6727305131113813156
+      1_skin71_panther_5: 8138964625601529458
+      1_skin71_panther_6: -2605312371412962017
+      1_skin71_panther_7: 6392997317925085420
+      1_skin71_panther_8: 5896677726140702087
+      1_skin71_panther_9: -5138372618960540447
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

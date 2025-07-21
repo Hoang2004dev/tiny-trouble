@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wrapped_Candies (16 x 16)_0: 3474745864003343402
+      Wrapped_Candies (16 x 16)_1: -1120855451875357123
+      Wrapped_Candies (16 x 16)_2: 310264570990644851
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

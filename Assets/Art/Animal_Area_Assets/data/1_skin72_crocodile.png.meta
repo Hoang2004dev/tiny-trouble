@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin72_crocodile_0: -1897084471581453097
+      1_skin72_crocodile_1: 3012294477867738939
+      1_skin72_crocodile_10: -1076321269621095261
+      1_skin72_crocodile_2: -3832271097377132883
+      1_skin72_crocodile_3: -1312151427703666233
+      1_skin72_crocodile_4: 1458640753989800794
+      1_skin72_crocodile_5: -2902224677764185498
+      1_skin72_crocodile_6: -7720135720737240704
+      1_skin72_crocodile_7: 1571967848363132998
+      1_skin72_crocodile_8: 8268966374765972199
+      1_skin72_crocodile_9: 3494929371850418719
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

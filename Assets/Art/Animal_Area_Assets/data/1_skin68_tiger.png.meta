@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin68_tiger_0: 3729508989280115305
+      1_skin68_tiger_1: -2643550953482844654
+      1_skin68_tiger_10: -1538201172800271945
+      1_skin68_tiger_2: 2458197687108212382
+      1_skin68_tiger_3: -1263114367227730551
+      1_skin68_tiger_4: 713044034161303008
+      1_skin68_tiger_5: 4339631329061243836
+      1_skin68_tiger_6: 5041947630926025011
+      1_skin68_tiger_7: 1327903721679097976
+      1_skin68_tiger_8: -6322411692281921511
+      1_skin68_tiger_9: -7482601245914880091
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

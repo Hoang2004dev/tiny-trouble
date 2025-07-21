@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cake_matcha_0: -6366649602521467861
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

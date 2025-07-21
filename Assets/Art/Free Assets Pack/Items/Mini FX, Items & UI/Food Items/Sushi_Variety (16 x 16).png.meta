@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sushi_Variety (16 x 16)_0: -5499719478074048383
+      Sushi_Variety (16 x 16)_1: -5716168117282551480
+      Sushi_Variety (16 x 16)_2: -2742714778926498063
+      Sushi_Variety (16 x 16)_3: -6616677234023050777
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

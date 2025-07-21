@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bottled_Drinks (16 x 16)_0: 8956750527340251225
+      Bottled_Drinks (16 x 16)_1: -5717114517192753302
+      Bottled_Drinks (16 x 16)_2: 3958884230538458722
+      Bottled_Drinks (16 x 16)_3: 762770256606844573
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

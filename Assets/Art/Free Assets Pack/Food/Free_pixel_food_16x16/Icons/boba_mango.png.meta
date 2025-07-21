@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      boba_mango_0: -6273930812300812826
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

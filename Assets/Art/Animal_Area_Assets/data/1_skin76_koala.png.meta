@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin76_koala_0: -8155428766455842220
+      1_skin76_koala_1: 3067944875457875229
+      1_skin76_koala_10: 8629081127214444683
+      1_skin76_koala_2: -4669539333975865285
+      1_skin76_koala_3: 6477869143978382846
+      1_skin76_koala_4: -5379694831997423303
+      1_skin76_koala_5: 4941406922869715975
+      1_skin76_koala_6: 4414302998828312261
+      1_skin76_koala_7: -5201040760382645222
+      1_skin76_koala_8: 5706272246622928928
+      1_skin76_koala_9: 6155386071527728784
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

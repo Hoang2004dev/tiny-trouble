@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin131_puffin_0: -8208410971925444989
+      1_skin131_puffin_1: -716994702259759425
+      1_skin131_puffin_10: 3873585693627538690
+      1_skin131_puffin_2: 2764388014663025677
+      1_skin131_puffin_3: 4977084170770835100
+      1_skin131_puffin_4: -1254260851243218134
+      1_skin131_puffin_5: -9113887883090235788
+      1_skin131_puffin_6: 1523397463890378027
+      1_skin131_puffin_7: 6027328168261123369
+      1_skin131_puffin_8: -2625096577095265431
+      1_skin131_puffin_9: -1209070875839281327
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

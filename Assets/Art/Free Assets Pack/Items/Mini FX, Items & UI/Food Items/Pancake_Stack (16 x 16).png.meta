@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pancake_Stack (16 x 16)_0: -3276624948217601276
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin112_kappa_0: -5297457980465349449
+      1_skin112_kappa_1: -935483120889809767
+      1_skin112_kappa_10: 3748210522539131925
+      1_skin112_kappa_2: 2107087379116539944
+      1_skin112_kappa_3: 1335545553675063621
+      1_skin112_kappa_4: 9006729233093265285
+      1_skin112_kappa_5: 5547800808039956613
+      1_skin112_kappa_6: 1174170279264494048
+      1_skin112_kappa_7: -800846219456284552
+      1_skin112_kappa_8: -8811705293985975475
+      1_skin112_kappa_9: 1445243140742363948
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

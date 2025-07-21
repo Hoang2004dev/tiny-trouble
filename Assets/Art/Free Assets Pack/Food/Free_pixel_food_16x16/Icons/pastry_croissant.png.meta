@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pastry_croissant_0: 4271705249499245964
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

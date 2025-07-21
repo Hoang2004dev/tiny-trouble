@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin36_parrot_0: -4328294303103675045
+      1_skin36_parrot_1: 5434805165008683510
+      1_skin36_parrot_10: -5795162899874759865
+      1_skin36_parrot_2: 5878684469575543888
+      1_skin36_parrot_3: 982716936775472780
+      1_skin36_parrot_4: -4067515163781205271
+      1_skin36_parrot_5: 5276667907102268032
+      1_skin36_parrot_6: -2470044447510417909
+      1_skin36_parrot_7: 597399307472955952
+      1_skin36_parrot_8: -3274969466215829263
+      1_skin36_parrot_9: -5424874016772180336
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

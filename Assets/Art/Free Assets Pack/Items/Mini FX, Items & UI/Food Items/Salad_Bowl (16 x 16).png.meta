@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Salad_Bowl (16 x 16)_0: -8891281293789335926
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

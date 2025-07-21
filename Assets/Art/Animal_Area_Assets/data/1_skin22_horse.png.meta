@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin22_horse_0: 3207405361233710176
+      1_skin22_horse_1: -7250299890735060235
+      1_skin22_horse_10: -326881670627559161
+      1_skin22_horse_2: -376736592397690302
+      1_skin22_horse_3: 5909632723215196535
+      1_skin22_horse_4: 5485444294414675135
+      1_skin22_horse_5: -7480388984764843086
+      1_skin22_horse_6: -8288883042703196246
+      1_skin22_horse_7: 372772893707267064
+      1_skin22_horse_8: 5255501138950592439
+      1_skin22_horse_9: 3530802347075836838
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

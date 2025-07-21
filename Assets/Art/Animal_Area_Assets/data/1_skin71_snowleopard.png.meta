@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin71_snowleopard_0: -7994860038170234703
+      1_skin71_snowleopard_1: -8183756933648026168
+      1_skin71_snowleopard_10: -8375885780694123435
+      1_skin71_snowleopard_2: 4009463994370477853
+      1_skin71_snowleopard_3: 3823150659063688609
+      1_skin71_snowleopard_4: -5332958014714807888
+      1_skin71_snowleopard_5: 7644599027096895482
+      1_skin71_snowleopard_6: 472450613163776933
+      1_skin71_snowleopard_7: -7059252917920540761
+      1_skin71_snowleopard_8: 194146479888073295
+      1_skin71_snowleopard_9: -1143250395249380525
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

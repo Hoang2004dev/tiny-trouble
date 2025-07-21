@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin82_chameleon_0: -3049438661756501791
+      1_skin82_chameleon_1: 5533605681169859331
+      1_skin82_chameleon_10: 7764323791449103940
+      1_skin82_chameleon_2: 4400024154567544734
+      1_skin82_chameleon_3: -1020154581445443734
+      1_skin82_chameleon_4: 5337634092410123817
+      1_skin82_chameleon_5: 2867725159886821710
+      1_skin82_chameleon_6: -6824410531563561714
+      1_skin82_chameleon_7: 4062141020060574835
+      1_skin82_chameleon_8: 2878334572466003183
+      1_skin82_chameleon_9: 4104566517766053901
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

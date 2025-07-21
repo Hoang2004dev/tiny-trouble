@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin43_pelican_0: -6958965796592515593
+      1_skin43_pelican_1: 3623910856277607596
+      1_skin43_pelican_10: 4481539172507376453
+      1_skin43_pelican_2: 3697525797880244232
+      1_skin43_pelican_3: -8031660864540907514
+      1_skin43_pelican_4: -3024197953583563004
+      1_skin43_pelican_5: -1163206103917902357
+      1_skin43_pelican_6: 6183448589021877125
+      1_skin43_pelican_7: -4059486231726033861
+      1_skin43_pelican_8: 4383017137877937269
+      1_skin43_pelican_9: 1951585739175836700
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

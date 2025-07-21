@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin40_owl_0: -6268450323285968852
+      1_skin40_owl_1: 993011519613206776
+      1_skin40_owl_10: -855353461307928683
+      1_skin40_owl_2: 4137012357266256175
+      1_skin40_owl_3: 6412100464438810179
+      1_skin40_owl_4: -5021707247233966164
+      1_skin40_owl_5: 4105264989293132685
+      1_skin40_owl_6: 2281514653618549456
+      1_skin40_owl_7: -4526061213387279248
+      1_skin40_owl_8: -6607119589239390046
+      1_skin40_owl_9: -8243428755030593849
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

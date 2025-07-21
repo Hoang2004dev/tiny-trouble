@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin90_axolotl_0: 4116096832401349939
+      1_skin90_axolotl_1: -1282812991028889839
+      1_skin90_axolotl_10: -3249831964320583638
+      1_skin90_axolotl_2: -5741659458519434122
+      1_skin90_axolotl_3: 5457714796647930489
+      1_skin90_axolotl_4: 6015949429652457100
+      1_skin90_axolotl_5: 4498604486493238541
+      1_skin90_axolotl_6: 7049745374203137441
+      1_skin90_axolotl_7: 5191068165425269215
+      1_skin90_axolotl_8: 3906832884226136704
+      1_skin90_axolotl_9: -8811317242315776451
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

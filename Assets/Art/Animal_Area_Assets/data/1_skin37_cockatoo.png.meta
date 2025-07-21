@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin37_cockatoo_0: -9166251199584476505
+      1_skin37_cockatoo_1: -2602101055549703314
+      1_skin37_cockatoo_10: -3770167820475005108
+      1_skin37_cockatoo_2: -2243035621495069216
+      1_skin37_cockatoo_3: 757252790776926039
+      1_skin37_cockatoo_4: -3474821669258707240
+      1_skin37_cockatoo_5: -1519641420753804794
+      1_skin37_cockatoo_6: 507972503910455953
+      1_skin37_cockatoo_7: 9124500181979043482
+      1_skin37_cockatoo_8: -2308921761977954119
+      1_skin37_cockatoo_9: 8257423427294586755
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

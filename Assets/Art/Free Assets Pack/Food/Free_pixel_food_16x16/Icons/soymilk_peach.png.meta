@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      soymilk_peach_0: -4533998190351278275
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

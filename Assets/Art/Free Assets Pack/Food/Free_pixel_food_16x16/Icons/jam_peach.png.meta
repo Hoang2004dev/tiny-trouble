@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      jam_peach_0: 7491475474952901925
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

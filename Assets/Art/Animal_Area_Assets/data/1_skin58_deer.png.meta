@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin58_deer_0: 8757841028030486091
+      1_skin58_deer_1: -1389873815698511710
+      1_skin58_deer_10: -7616411711521919697
+      1_skin58_deer_2: -6222480431858359869
+      1_skin58_deer_3: -7774617789885080852
+      1_skin58_deer_4: -2091125184027768066
+      1_skin58_deer_5: 5162078856055448192
+      1_skin58_deer_6: 1937973843863435323
+      1_skin58_deer_7: -4388432754608964507
+      1_skin58_deer_8: -1142864107146981463
+      1_skin58_deer_9: 4106465580570302378
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

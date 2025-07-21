@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin30_duck_0: 3639968157562708
+      1_skin30_duck_1: 6780256066919445683
+      1_skin30_duck_10: 3125851548016820454
+      1_skin30_duck_2: 3253902703114478194
+      1_skin30_duck_3: 490980394136191248
+      1_skin30_duck_4: 8493031224965553427
+      1_skin30_duck_5: -7619718751057167279
+      1_skin30_duck_6: -6942257493932943378
+      1_skin30_duck_7: 6996666632304680190
+      1_skin30_duck_8: 685000606464603591
+      1_skin30_duck_9: -3732184208481172673
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin69_giraffe_0: 6945534645072952971
+      1_skin69_giraffe_1: -5960094922449310347
+      1_skin69_giraffe_10: -7276815866949073504
+      1_skin69_giraffe_11: 7700617901179386061
+      1_skin69_giraffe_2: -8842930785308887696
+      1_skin69_giraffe_3: 8172854237100672885
+      1_skin69_giraffe_4: 2769662859851312787
+      1_skin69_giraffe_5: -8870527809671840464
+      1_skin69_giraffe_6: 4625552453280222613
+      1_skin69_giraffe_7: 2473946565290300719
+      1_skin69_giraffe_8: 2738919230196362734
+      1_skin69_giraffe_9: -8959662247396143728
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

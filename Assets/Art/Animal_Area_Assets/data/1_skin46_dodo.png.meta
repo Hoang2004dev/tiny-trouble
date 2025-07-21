@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin46_dodo_0: 6647798057295937749
+      1_skin46_dodo_1: 7620131371431404176
+      1_skin46_dodo_10: 1732602770612341227
+      1_skin46_dodo_2: 8816050417907848309
+      1_skin46_dodo_3: 7279041576680900429
+      1_skin46_dodo_4: -4802029827042824474
+      1_skin46_dodo_5: 6909426036995040971
+      1_skin46_dodo_6: -7756998901996507977
+      1_skin46_dodo_7: -5037730887162313819
+      1_skin46_dodo_8: 5576714322965414341
+      1_skin46_dodo_9: -1878283491570479834
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

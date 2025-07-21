@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vegetable_garlic_0: -645303772745756429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

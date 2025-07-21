@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin130_pigeon_0: -5734692127861142902
+      1_skin130_pigeon_1: -1939348416451302885
+      1_skin130_pigeon_10: 3330621786474806731
+      1_skin130_pigeon_2: -984521445886800127
+      1_skin130_pigeon_3: -4755373648732692375
+      1_skin130_pigeon_4: -8623363808934391593
+      1_skin130_pigeon_5: -6595854337066187957
+      1_skin130_pigeon_6: 2944221423239876865
+      1_skin130_pigeon_7: -6548184527914214179
+      1_skin130_pigeon_8: 7039757962248528616
+      1_skin130_pigeon_9: -7734770238543953106
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
