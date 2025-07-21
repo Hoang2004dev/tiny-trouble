@@ -12,3 +12,7 @@
 .vscode/
 *.apk
 .DS_Store
+
+Logs/
+UserSettings/
+

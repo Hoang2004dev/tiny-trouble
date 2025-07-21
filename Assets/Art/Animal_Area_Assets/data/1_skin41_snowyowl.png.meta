@@ -139,6 +139,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -397,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin41_snowyowl_0: -637298516867607242
+      1_skin41_snowyowl_1: 3586201930274487576
+      1_skin41_snowyowl_10: 8044032293070866906
+      1_skin41_snowyowl_2: 2322894826531758555
+      1_skin41_snowyowl_3: 2999491456739882021
+      1_skin41_snowyowl_4: -3827125515314209634
+      1_skin41_snowyowl_5: 475802376471061142
+      1_skin41_snowyowl_6: 9070913742433000380
+      1_skin41_snowyowl_7: 8433456013003808719
+      1_skin41_snowyowl_8: -903002883377406521
+      1_skin41_snowyowl_9: 1767580441233821970
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

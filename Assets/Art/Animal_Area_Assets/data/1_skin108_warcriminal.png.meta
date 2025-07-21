@@ -139,6 +139,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -397,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin108_warcriminal_0: 8962316917685140159
+      1_skin108_warcriminal_1: 4593026265205063131
+      1_skin108_warcriminal_10: 3274074322579589799
+      1_skin108_warcriminal_2: -2502198535048233174
+      1_skin108_warcriminal_3: 6887318300621988361
+      1_skin108_warcriminal_4: -5004372352263592831
+      1_skin108_warcriminal_5: 1848234534334189682
+      1_skin108_warcriminal_6: 1392586709382111865
+      1_skin108_warcriminal_7: -6330239208342603777
+      1_skin108_warcriminal_8: 8980187921080499388
+      1_skin108_warcriminal_9: 9078464608828651379
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

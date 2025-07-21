@@ -139,6 +139,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -397,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin121_oceansunfish_0: 731751111205344572
+      1_skin121_oceansunfish_1: -1556744682512975672
+      1_skin121_oceansunfish_10: 7053006954333971848
+      1_skin121_oceansunfish_2: 8775379044647435601
+      1_skin121_oceansunfish_3: 1916168395547782793
+      1_skin121_oceansunfish_4: 3842813214945914294
+      1_skin121_oceansunfish_5: -3981806406276522586
+      1_skin121_oceansunfish_6: -1730834491750404284
+      1_skin121_oceansunfish_7: -1125118315542018884
+      1_skin121_oceansunfish_8: 7056324713766547283
+      1_skin121_oceansunfish_9: 728348518230186490
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

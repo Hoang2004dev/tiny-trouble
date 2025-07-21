@@ -139,6 +139,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -397,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin54_armadillo_0: 3289375610093600623
+      1_skin54_armadillo_1: -2901710658439777334
+      1_skin54_armadillo_10: -8193627409176829778
+      1_skin54_armadillo_2: -5277186067156481797
+      1_skin54_armadillo_3: -6916733567180988666
+      1_skin54_armadillo_4: 2712431760038368772
+      1_skin54_armadillo_5: -7222404256603587246
+      1_skin54_armadillo_6: -7803683463943466835
+      1_skin54_armadillo_7: 7041102728422083533
+      1_skin54_armadillo_8: -4232485380390167242
+      1_skin54_armadillo_9: 5613558009844266921
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

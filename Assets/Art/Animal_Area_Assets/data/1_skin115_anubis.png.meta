@@ -139,6 +139,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -397,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin115_anubis_0: 7240216460861074124
+      1_skin115_anubis_1: 6514749268672010856
+      1_skin115_anubis_10: 6171017849301969236
+      1_skin115_anubis_2: -7748091270145833152
+      1_skin115_anubis_3: -8968927565140000642
+      1_skin115_anubis_4: -6376845553467709816
+      1_skin115_anubis_5: -6361523907229102814
+      1_skin115_anubis_6: -4237102897642019773
+      1_skin115_anubis_7: 3420698534373773019
+      1_skin115_anubis_8: 6755141967236045315
+      1_skin115_anubis_9: -2238597879903902311
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

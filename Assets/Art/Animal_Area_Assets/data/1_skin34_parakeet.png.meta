@@ -139,6 +139,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -397,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin34_parakeet_0: -6354487030190874516
+      1_skin34_parakeet_1: -4041044139648527308
+      1_skin34_parakeet_10: 3315852398612539103
+      1_skin34_parakeet_2: 6473319254424266468
+      1_skin34_parakeet_3: 2241155065642207877
+      1_skin34_parakeet_4: 2326722695218893591
+      1_skin34_parakeet_5: 7334620539175446146
+      1_skin34_parakeet_6: -293247029250805243
+      1_skin34_parakeet_7: -2215313654398496349
+      1_skin34_parakeet_8: -1994206421566092495
+      1_skin34_parakeet_9: -8494219912555464843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
