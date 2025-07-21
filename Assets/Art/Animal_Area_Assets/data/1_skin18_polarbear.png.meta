@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin18_polarbear_0: -5891129364232428726
+      1_skin18_polarbear_1: -2773147549721962432
+      1_skin18_polarbear_10: 6485575546794051277
+      1_skin18_polarbear_2: -2159114774300205140
+      1_skin18_polarbear_3: 549933837508818472
+      1_skin18_polarbear_4: 2311739738479731662
+      1_skin18_polarbear_5: -4737127356465156510
+      1_skin18_polarbear_6: -5379088584197127776
+      1_skin18_polarbear_7: 3560999291604942861
+      1_skin18_polarbear_8: -5817176471152598811
+      1_skin18_polarbear_9: -9066544683152150690
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

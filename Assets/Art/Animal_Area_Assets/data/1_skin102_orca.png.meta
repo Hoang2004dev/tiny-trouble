@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin102_orca_0: 2204922832207049539
+      1_skin102_orca_1: -6078701877232074748
+      1_skin102_orca_10: -7195211610901300346
+      1_skin102_orca_2: 1612954522154932051
+      1_skin102_orca_3: -5434764567806743696
+      1_skin102_orca_4: 4025883284801801602
+      1_skin102_orca_5: -7811027788786967611
+      1_skin102_orca_6: -5457805603920960579
+      1_skin102_orca_7: -3398652154741741266
+      1_skin102_orca_8: -8297842403180044429
+      1_skin102_orca_9: 154979577923465420
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

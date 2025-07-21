@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vegetable_jalapeno_0: 2231765268501011612
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

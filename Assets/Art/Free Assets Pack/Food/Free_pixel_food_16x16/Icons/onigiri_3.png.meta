@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      onigiri_3_0: 7061619258418444963
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

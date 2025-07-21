@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin59_moose_0: 6642050364572971208
+      1_skin59_moose_1: -3565936476956558726
+      1_skin59_moose_10: -7257693141321502554
+      1_skin59_moose_2: 22543711893339317
+      1_skin59_moose_3: 4565028088388670667
+      1_skin59_moose_4: -8090988226826125180
+      1_skin59_moose_5: 8309403033619532916
+      1_skin59_moose_6: -470664105810717919
+      1_skin59_moose_7: -5094969064204092223
+      1_skin59_moose_8: 5863234150091332663
+      1_skin59_moose_9: 3534475639433510757
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

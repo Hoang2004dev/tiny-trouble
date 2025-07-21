@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin19_panda_0: -768092135198134597
+      1_skin19_panda_1: 8094430028385836592
+      1_skin19_panda_10: -358416466489192278
+      1_skin19_panda_2: -3695264467203338842
+      1_skin19_panda_3: -3968099313009256127
+      1_skin19_panda_4: -3841177401747693083
+      1_skin19_panda_5: 803766029472941955
+      1_skin19_panda_6: -1139369803587098997
+      1_skin19_panda_7: 1285870975528312903
+      1_skin19_panda_8: 5719236325790948044
+      1_skin19_panda_9: -8165135003451715433
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

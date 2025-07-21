@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin26_squirrel_0: -1841204811243111474
+      1_skin26_squirrel_1: -6559250023771677594
+      1_skin26_squirrel_10: 7760926505443279070
+      1_skin26_squirrel_2: -5529551079221765413
+      1_skin26_squirrel_3: 4830312184844495454
+      1_skin26_squirrel_4: -9001535747086684367
+      1_skin26_squirrel_5: 7249820755157946108
+      1_skin26_squirrel_6: -4425663220707732216
+      1_skin26_squirrel_7: -3360797532042853678
+      1_skin26_squirrel_8: -4966623357911265555
+      1_skin26_squirrel_9: -257619255308841188
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

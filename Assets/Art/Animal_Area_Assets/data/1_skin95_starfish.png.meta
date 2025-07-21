@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin95_starfish_0: -4352950704923826713
+      1_skin95_starfish_1: -4963577070586271137
+      1_skin95_starfish_10: 5666171936162343235
+      1_skin95_starfish_2: -7307429221749419680
+      1_skin95_starfish_3: 8030175657752059733
+      1_skin95_starfish_4: 1566868801513786641
+      1_skin95_starfish_5: -5894180035856180881
+      1_skin95_starfish_6: -3727227376144672806
+      1_skin95_starfish_7: -2316265417823701552
+      1_skin95_starfish_8: 7724629246242507089
+      1_skin95_starfish_9: -7059222571200339415
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

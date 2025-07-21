@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vegetable_pumpkin_0: 5690526368130108496
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

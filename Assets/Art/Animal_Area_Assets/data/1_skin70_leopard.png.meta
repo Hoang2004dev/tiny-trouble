@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin70_leopard_0: -9125645076739497638
+      1_skin70_leopard_1: -2816746588250658863
+      1_skin70_leopard_10: -3949860593266076128
+      1_skin70_leopard_2: -336239450229198441
+      1_skin70_leopard_3: -7588746088028598190
+      1_skin70_leopard_4: -5116273833344879271
+      1_skin70_leopard_5: -1935894367803330035
+      1_skin70_leopard_6: -1896385298471690902
+      1_skin70_leopard_7: -8400471014600157547
+      1_skin70_leopard_8: -1887396033577227619
+      1_skin70_leopard_9: 2830988460297822332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin79_yeti_0: -9091043834474076614
+      1_skin79_yeti_1: 5664175631154640382
+      1_skin79_yeti_10: 6979211720088638608
+      1_skin79_yeti_2: -8458253640754156026
+      1_skin79_yeti_3: -4500496881729493013
+      1_skin79_yeti_4: 1586825166818751247
+      1_skin79_yeti_5: 4653412937093130948
+      1_skin79_yeti_6: 4150202548257251032
+      1_skin79_yeti_7: 5436119818235822597
+      1_skin79_yeti_8: 7175580038224287903
+      1_skin79_yeti_9: -3586335983749650343
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

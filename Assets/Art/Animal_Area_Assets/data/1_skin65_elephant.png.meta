@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin65_elephant_0: -1765049562535081116
+      1_skin65_elephant_1: 8994695484161558046
+      1_skin65_elephant_10: 251366544425244523
+      1_skin65_elephant_2: -3245230732443369943
+      1_skin65_elephant_3: 7874771835331827394
+      1_skin65_elephant_4: -4166129537884703375
+      1_skin65_elephant_5: 5364607415691233599
+      1_skin65_elephant_6: 7460543715501536084
+      1_skin65_elephant_7: 2846730456339099113
+      1_skin65_elephant_8: 416576700852674540
+      1_skin65_elephant_9: 4298771124000147075
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chocolate_Bars (16 x 16)_0: -9203067599784348108
+      Chocolate_Bars (16 x 16)_1: -3721305284282641378
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

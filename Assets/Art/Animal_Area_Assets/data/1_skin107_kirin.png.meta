@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin107_kirin_0: -2277058072013129862
+      1_skin107_kirin_1: 3905317795811790002
+      1_skin107_kirin_10: -6779698634041727479
+      1_skin107_kirin_2: 5523747488089575475
+      1_skin107_kirin_3: 1178287131102148589
+      1_skin107_kirin_4: 3378249846956186007
+      1_skin107_kirin_5: -9161873759012397887
+      1_skin107_kirin_6: -3538328024928455481
+      1_skin107_kirin_7: 8454292987447923299
+      1_skin107_kirin_8: -6685192778628540162
+      1_skin107_kirin_9: -2124774043982190083
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

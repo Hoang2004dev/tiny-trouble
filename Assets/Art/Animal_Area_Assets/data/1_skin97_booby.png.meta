@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin97_booby_0: 4938817963633374898
+      1_skin97_booby_1: 7520005718219180954
+      1_skin97_booby_10: -1185549306255597188
+      1_skin97_booby_2: 2002171312653855183
+      1_skin97_booby_3: 4360581278504974980
+      1_skin97_booby_4: -2520423676153053330
+      1_skin97_booby_5: 4801886857039352891
+      1_skin97_booby_6: -3891381753241163174
+      1_skin97_booby_7: -5569324555186783466
+      1_skin97_booby_8: -8486398188008081721
+      1_skin97_booby_9: 3586667709625221704
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

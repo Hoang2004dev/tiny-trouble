@@ -547,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin109_priestess_0: -5535711912205602304
+      1_skin109_priestess_1: 8954179842491287933
+      1_skin109_priestess_10: 686000628209951341
+      1_skin109_priestess_11: 6903501759035980785
+      1_skin109_priestess_12: 8737662418532197899
+      1_skin109_priestess_13: 7122931994380854658
+      1_skin109_priestess_14: -8168648472477089736
+      1_skin109_priestess_15: 757778283747682801
+      1_skin109_priestess_16: -784689249433186504
+      1_skin109_priestess_2: 3091778591754161249
+      1_skin109_priestess_3: -5467558091497975652
+      1_skin109_priestess_4: -4069830704074052837
+      1_skin109_priestess_5: 6577579481826808914
+      1_skin109_priestess_6: -4532782179025884439
+      1_skin109_priestess_7: -4178562026811903447
+      1_skin109_priestess_8: 8909579478353402621
+      1_skin109_priestess_9: -3145984613876034642
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

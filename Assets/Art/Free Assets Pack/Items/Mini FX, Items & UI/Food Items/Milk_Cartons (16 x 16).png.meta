@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Milk_Cartons (16 x 16)_0: 4091022159678187866
+      Milk_Cartons (16 x 16)_1: 5026272621772276638
+      Milk_Cartons (16 x 16)_2: -2146559353374736358
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

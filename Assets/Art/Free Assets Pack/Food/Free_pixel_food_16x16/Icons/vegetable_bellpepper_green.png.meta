@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vegetable_bellpepper_green_0: -5696630451922307777
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

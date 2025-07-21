@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin23_zebra_0: -7310518857687745284
+      1_skin23_zebra_1: 7933818948123218955
+      1_skin23_zebra_10: 4134800663739615980
+      1_skin23_zebra_2: -4640400635807643938
+      1_skin23_zebra_3: 2065110490503545284
+      1_skin23_zebra_4: -1736755585649426188
+      1_skin23_zebra_5: -8097276314774485650
+      1_skin23_zebra_6: -7381052967939043803
+      1_skin23_zebra_7: -8393643852518400127
+      1_skin23_zebra_8: 94421500411828482
+      1_skin23_zebra_9: 6214324262255701153
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

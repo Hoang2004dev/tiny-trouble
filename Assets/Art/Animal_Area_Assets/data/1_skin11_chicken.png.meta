@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin11_chicken_0: 4494121088373856883
+      1_skin11_chicken_1: -2668191429076353232
+      1_skin11_chicken_10: 2843093618047410251
+      1_skin11_chicken_2: -8176205663501358438
+      1_skin11_chicken_3: -6562259575066811672
+      1_skin11_chicken_4: -7809255506401093811
+      1_skin11_chicken_5: 7802879409552963520
+      1_skin11_chicken_6: -1325795489372690570
+      1_skin11_chicken_7: -1972113898079722314
+      1_skin11_chicken_8: -4906814656344512446
+      1_skin11_chicken_9: 558845338160701994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

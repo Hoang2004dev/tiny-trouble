@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin15_raccoon_0: 2458030422930437187
+      1_skin15_raccoon_1: -8238473328522407095
+      1_skin15_raccoon_10: -4411453253749946630
+      1_skin15_raccoon_2: 8030360694073808531
+      1_skin15_raccoon_3: 7033338514544208480
+      1_skin15_raccoon_4: 6505250311453806569
+      1_skin15_raccoon_5: 3128098644782152823
+      1_skin15_raccoon_6: 3850761810866654514
+      1_skin15_raccoon_7: 2576437253683507190
+      1_skin15_raccoon_8: -3460652464271250593
+      1_skin15_raccoon_9: 4254731453576195200
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

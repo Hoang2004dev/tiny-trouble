@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin116_unicorn_0: 2835968071425544444
+      1_skin116_unicorn_1: 6781525589432785572
+      1_skin116_unicorn_10: 3104102248303397012
+      1_skin116_unicorn_2: 8016735707700960506
+      1_skin116_unicorn_3: -7990391485174738041
+      1_skin116_unicorn_4: 7198947319399173347
+      1_skin116_unicorn_5: -8638924524934816846
+      1_skin116_unicorn_6: 95373680825369039
+      1_skin116_unicorn_7: -240294812112295015
+      1_skin116_unicorn_8: -2242273527480800728
+      1_skin116_unicorn_9: 3201918248688367921
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

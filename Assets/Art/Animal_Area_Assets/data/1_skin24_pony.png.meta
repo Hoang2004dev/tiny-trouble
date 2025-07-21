@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin24_pony_0: 4908661996325135279
+      1_skin24_pony_1: -1454740267553603633
+      1_skin24_pony_10: -4542669149823620041
+      1_skin24_pony_2: 6298265594719614304
+      1_skin24_pony_3: -5136800401119290123
+      1_skin24_pony_4: -5934668855709535986
+      1_skin24_pony_5: -1404868617894306380
+      1_skin24_pony_6: 4727907489120148457
+      1_skin24_pony_7: -181707110492870085
+      1_skin24_pony_8: -2779754506273842361
+      1_skin24_pony_9: -8401672221270663297
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

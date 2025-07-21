@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin84_kangaroo_0: 4778295657543758943
+      1_skin84_kangaroo_1: -7270859076767324964
+      1_skin84_kangaroo_10: 6603804066572946014
+      1_skin84_kangaroo_2: -8152201825610107722
+      1_skin84_kangaroo_3: -7339400322950180379
+      1_skin84_kangaroo_4: -5714912493347139223
+      1_skin84_kangaroo_5: -2307417993631643688
+      1_skin84_kangaroo_6: 1614461343800588618
+      1_skin84_kangaroo_7: 4630633859146241106
+      1_skin84_kangaroo_8: 3771901190388189569
+      1_skin84_kangaroo_9: -2482058897029822122
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

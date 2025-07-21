@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin28_hedgehog_0: 3079100664405795091
+      1_skin28_hedgehog_1: 3109677674057497864
+      1_skin28_hedgehog_10: 7514162194530360070
+      1_skin28_hedgehog_2: -3135282817725008412
+      1_skin28_hedgehog_3: 3447656292396575861
+      1_skin28_hedgehog_4: 1437670941304992153
+      1_skin28_hedgehog_5: -1433794925343112792
+      1_skin28_hedgehog_6: -2651153450422087889
+      1_skin28_hedgehog_7: -5179766962132215266
+      1_skin28_hedgehog_8: 2358115713050907410
+      1_skin28_hedgehog_9: -4955446951182996498
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

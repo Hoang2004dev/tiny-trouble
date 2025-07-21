@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Small_Coin (16 x 16)_0: 8429065312181065089
+      Small_Coin (16 x 16)_1: -3546864295384461666
+      Small_Coin (16 x 16)_2: 9019695748096291541
+      Small_Coin (16 x 16)_3: 2756071650512880206
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

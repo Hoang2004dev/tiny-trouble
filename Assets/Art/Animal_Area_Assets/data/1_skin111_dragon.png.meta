@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin111_dragon_0: -8421042651110776067
+      1_skin111_dragon_1: 662021634796630240
+      1_skin111_dragon_10: -2093282609897371154
+      1_skin111_dragon_2: -442226558440057701
+      1_skin111_dragon_3: 4503054366296197527
+      1_skin111_dragon_4: -6736174212140054803
+      1_skin111_dragon_5: -5667244775765089664
+      1_skin111_dragon_6: -2343927373286143751
+      1_skin111_dragon_7: -680245681814171427
+      1_skin111_dragon_8: -4478607958597144606
+      1_skin111_dragon_9: 3679542291407747977
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin75_pangolin_0: 829074183395721621
+      1_skin75_pangolin_1: 307615126085353901
+      1_skin75_pangolin_10: 1725129451273945984
+      1_skin75_pangolin_2: 3542412302140504563
+      1_skin75_pangolin_3: -272572181729055403
+      1_skin75_pangolin_4: 8076919798831756462
+      1_skin75_pangolin_5: 5738186383681454945
+      1_skin75_pangolin_6: 2911654025103338734
+      1_skin75_pangolin_7: 7569290797120373860
+      1_skin75_pangolin_8: 6810935095983218638
+      1_skin75_pangolin_9: 2511576384196068658
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

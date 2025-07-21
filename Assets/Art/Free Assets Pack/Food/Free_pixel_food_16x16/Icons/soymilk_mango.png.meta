@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      soymilk_mango_0: -224198243022581688
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin64_boar_0: -5985744190582766211
+      1_skin64_boar_1: 7023769362166462976
+      1_skin64_boar_10: -8519827433802425012
+      1_skin64_boar_2: -7735458989391145141
+      1_skin64_boar_3: 6265257180493520070
+      1_skin64_boar_4: -2456361108397713044
+      1_skin64_boar_5: -3808921971562820489
+      1_skin64_boar_6: -401104169947453447
+      1_skin64_boar_7: -6968356518509848857
+      1_skin64_boar_8: -6602241437321356288
+      1_skin64_boar_9: -836776996582651007
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

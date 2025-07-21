@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin6_dog_0: -3238683854864185764
+      1_skin6_dog_1: -1095987630723972996
+      1_skin6_dog_10: 3493973453733066636
+      1_skin6_dog_2: -1804851509662174836
+      1_skin6_dog_3: -5826140521851875402
+      1_skin6_dog_4: 8973003865741751988
+      1_skin6_dog_5: -4951162143384468408
+      1_skin6_dog_6: -1887263234241273663
+      1_skin6_dog_7: -5255490393283499449
+      1_skin6_dog_8: 1673795784881128463
+      1_skin6_dog_9: 374714057413620474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

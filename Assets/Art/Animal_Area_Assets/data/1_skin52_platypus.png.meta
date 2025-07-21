@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin52_platypus_0: -6302370148749977189
+      1_skin52_platypus_1: 4880930388390294382
+      1_skin52_platypus_10: 4118714684719443243
+      1_skin52_platypus_2: 7429730921641397566
+      1_skin52_platypus_3: -444762578656856995
+      1_skin52_platypus_4: 5930822260006742539
+      1_skin52_platypus_5: 7500848962155537798
+      1_skin52_platypus_6: 3709985783814512331
+      1_skin52_platypus_7: -1944756214288744177
+      1_skin52_platypus_8: 3585885415950988311
+      1_skin52_platypus_9: -4942081810777950623
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin10_capybara_0: 8330692604470981470
+      1_skin10_capybara_1: -750685896413030939
+      1_skin10_capybara_10: -2287540926025892896
+      1_skin10_capybara_2: 2501972308207243772
+      1_skin10_capybara_3: -3729400105816653804
+      1_skin10_capybara_4: 6967699470948971858
+      1_skin10_capybara_5: 2078675218070470958
+      1_skin10_capybara_6: 5264155336694399338
+      1_skin10_capybara_7: 3086758146644844215
+      1_skin10_capybara_8: -5846140730357178589
+      1_skin10_capybara_9: 3641709174709891662
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

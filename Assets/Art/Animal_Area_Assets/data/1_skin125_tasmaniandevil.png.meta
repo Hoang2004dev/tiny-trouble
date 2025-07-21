@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin125_tasmaniandevil_0: -2945699750477006340
+      1_skin125_tasmaniandevil_1: 6057767301702232387
+      1_skin125_tasmaniandevil_10: -3377939367395322144
+      1_skin125_tasmaniandevil_2: 1315074719566478525
+      1_skin125_tasmaniandevil_3: 4377957349045062446
+      1_skin125_tasmaniandevil_4: 6941540224734069481
+      1_skin125_tasmaniandevil_5: 3217492727174642156
+      1_skin125_tasmaniandevil_6: -5343964874797197910
+      1_skin125_tasmaniandevil_7: -4325883639985204980
+      1_skin125_tasmaniandevil_8: 8175329237215999980
+      1_skin125_tasmaniandevil_9: 3483282705544007423
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

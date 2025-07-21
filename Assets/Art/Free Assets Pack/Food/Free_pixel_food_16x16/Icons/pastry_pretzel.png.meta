@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pastry_pretzel_0: 6285972861484510349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

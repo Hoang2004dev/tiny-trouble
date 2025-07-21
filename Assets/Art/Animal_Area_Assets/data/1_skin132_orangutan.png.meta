@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin132_orangutan_0: 8245715795196426974
+      1_skin132_orangutan_1: -6534509287643267646
+      1_skin132_orangutan_10: 1622867279535424443
+      1_skin132_orangutan_2: -2390597687311888043
+      1_skin132_orangutan_3: 6551850515904605409
+      1_skin132_orangutan_4: -6591901291180715930
+      1_skin132_orangutan_5: -4265007374680394964
+      1_skin132_orangutan_6: -711230060472680979
+      1_skin132_orangutan_7: 7511937696805926815
+      1_skin132_orangutan_8: -1098080231732215981
+      1_skin132_orangutan_9: -1392804312557161899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      popsicle_red_0: -4018820575496190107
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

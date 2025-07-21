@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      1_skin78_gorilla_0: 4469739742214377616
+      1_skin78_gorilla_1: -5504438091576783824
+      1_skin78_gorilla_10: 9037771194996071597
+      1_skin78_gorilla_2: -8244160709030829430
+      1_skin78_gorilla_3: -5015513711319340239
+      1_skin78_gorilla_4: -4277300185301237198
+      1_skin78_gorilla_5: -4209282715940095260
+      1_skin78_gorilla_6: 7414635195031532924
+      1_skin78_gorilla_7: -4901517547790562095
+      1_skin78_gorilla_8: 8465135629056511412
+      1_skin78_gorilla_9: -1481029029644098792
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
