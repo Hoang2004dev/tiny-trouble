@@ -3,307 +3,192 @@ Main Camera
     - Camera
     - AudioListener
     - UniversalAdditionalCameraData
-    - CinemachineBrain
-CinemachineCamera
-    - Transform
-    - CinemachineCamera
-    - CinemachineFollow
-    - CinemachineCameraOffset
-    - CinemachineConfiner2D
-Chicken
+Sky
     - Transform
     - SpriteRenderer
-    - Animator
-    - Rigidbody2D
-    - PlayerController
-    - PlayerInput
-    - PlayerHealth
-    - CapsuleCollider2D
-    - AudioSource
-    GroundCheck
-        - Transform
-        - BoxCollider2D
-GroundTilemap
-    - Transform
-    - Grid
-    Ground
-        - Transform
-        - Tilemap
-        - TilemapRenderer
-        - TilemapCollider2D
-        - Rigidbody2D
-        - CompositeCollider2D
-ObjectTilemap
-    - Transform
-    - Grid
-    Object
-        - Transform
-        - Tilemap
-        - TilemapRenderer
-OverlayTilemap
-    - Transform
-    - Grid
-    Overlay
-        - Transform
-        - Tilemap
-        - TilemapRenderer
-TrapTilemap
-    - Transform
-    - Grid
-    Trap
-        - Transform
-        - Tilemap
-        - TilemapRenderer
-        - TilemapCollider2D
-        - Rigidbody2D
-        - CompositeCollider2D
-        - DamageSource
-OverlayTilemap (1)
-    - Transform
-    - Grid
-    Overlay
-        - Transform
-        - Tilemap
-        - TilemapRenderer
-Saw
-    - Transform
-    SawBlade
-        - Transform
-        - SpriteRenderer
-        - Rigidbody2D
-        - CircleCollider2D
-        - SawMover
-        - DamageSource
-        - Animator
-        - SawMoverLoop
-    PointA
-        - Transform
-    PointB
-        - Transform
-    PointC
-        - Transform
-    PointD
-        - Transform
-Saw (1)
-    - Transform
-    SawBlade
-        - Transform
-        - SpriteRenderer
-        - Rigidbody2D
-        - CircleCollider2D
-        - SawMover
-        - DamageSource
-        - Animator
-        - SawMoverLoop
-    PointA
-        - Transform
-    PointB
-        - Transform
-    PointC
-        - Transform
-    PointD
-        - Transform
-Saw (2)
-    - Transform
-    SawBlade
-        - Transform
-        - SpriteRenderer
-        - Rigidbody2D
-        - CircleCollider2D
-        - SawMover
-        - DamageSource
-        - Animator
-        - SawMoverLoop
-    PointA
-        - Transform
-    PointB
-        - Transform
-    PointC
-        - Transform
-    PointD
-        - Transform
-Saw (3)
-    - Transform
-    SawBlade
-        - Transform
-        - SpriteRenderer
-        - Rigidbody2D
-        - CircleCollider2D
-        - SawMover
-        - DamageSource
-        - Animator
-        - SawMoverLoop
-    PointA
-        - Transform
-    PointB
-        - Transform
-Hamburger
-    - Transform
-    Hamburger
-        - Transform
-        - SpriteRenderer
-        - Rigidbody2D
-        - HamburgerEnemy
-        - DamageSource
-        - Animator
-        - CapsuleCollider2D
-        - BoxCollider2D
-    PosA
-        - Transform
-    PosB
-        - Transform
-Hamburger (1)
-    - Transform
-    Hamburger
-        - Transform
-        - SpriteRenderer
-        - Rigidbody2D
-        - HamburgerEnemy
-        - DamageSource
-        - Animator
-        - CapsuleCollider2D
-        - BoxCollider2D
-    PosA
-        - Transform
-    PosB
-        - Transform
-Hamburger (2)
-    - Transform
-    Hamburger
-        - Transform
-        - SpriteRenderer
-        - Rigidbody2D
-        - HamburgerEnemy
-        - DamageSource
-        - Animator
-        - CapsuleCollider2D
-        - BoxCollider2D
-    PosA
-        - Transform
-    PosB
-        - Transform
-Spring
-    - Transform
-    - BoxCollider2D
-    - SpriteRenderer
-    - Animator
-    - SpringBounce
-    - AudioSource
-Spring (1)
-    - Transform
-    - BoxCollider2D
-    - SpriteRenderer
-    - Animator
-    - SpringBounce
-    - AudioSource
-Spring (2)
-    - Transform
-    - BoxCollider2D
-    - SpriteRenderer
-    - Animator
-    - SpringBounce
-    - AudioSource
-Ghost
+2_0
     - Transform
     - SpriteRenderer
-    - BoxCollider2D
-    - Animator
-    - NPCDialogue
-    - AudioSource
-    - NPCEmojiController
-    Emoji_Base
+3_0
+    - Transform
+    - SpriteRenderer
+3_1
+    - Transform
+    - SpriteRenderer
+3_2
+    - Transform
+    - SpriteRenderer
+3_3
+    - Transform
+    - SpriteRenderer
+3_4
+    - Transform
+    - SpriteRenderer
+3_5
+    - Transform
+    - SpriteRenderer
+4_0
+    - Transform
+    - SpriteRenderer
+4_1
+    - Transform
+    - SpriteRenderer
+GameTitle
+    - Transform
+    - FloatingMotion
+    GameTitle
+        - Transform
+        - SpriteRenderer
+    GameObject
         - Transform
         - SpriteRenderer
         - Animator
-HeartCanvas
-    - RectTransform
-    - Canvas
-    - CanvasScaler
-    - GraphicRaycaster
-    DialoguePanel
-        - RectTransform
-        - CanvasRenderer
-        - Image
-        DialogueText
-            - RectTransform
-            - CanvasRenderer
-            - TextMeshProUGUI
-    DialogueBox
-        - RectTransform
-        - CanvasRenderer
-        - Image
-        DialogueText
-            - RectTransform
-            - CanvasRenderer
-            - TextMeshProUGUI
-        SpeakerNameText
-            - RectTransform
-            - CanvasRenderer
-            - TextMeshProUGUI
-        AvatarImage
-            - RectTransform
-            - CanvasRenderer
-            - Image
-    HeartContainer
-        - RectTransform
-        - HorizontalLayoutGroup
-        HeartUI
-            - RectTransform
-            - CanvasRenderer
-            - Image
-            - HeartUI
-HealthUIManager
-    - Transform
-    - HealthUIManager
+    BrightSparkle
+        - Transform
+        - SpriteRenderer
+        - Animator
 EventSystem
     - Transform
     - EventSystem
     - InputSystemUIInputModule
-Sky
+StartSceneManager
     - Transform
-    - SpriteRenderer
-    - Animator
-    - InfiniteTiledParallaxWrapped
-Cloud
+    - StartSceneController
+InputManager  
     - Transform
-    - SpriteRenderer
-    - ParallaxBackground
-    Cloud (2)
-        - Transform
-        - SpriteRenderer
-    Cloud (1)
-        - Transform
-        - SpriteRenderer
-City
+    - PlayerInputHandler
+CursorManager
     - Transform
-    - SpriteRenderer
-    - ParallaxBackground
-    City (2)
-        - Transform
-        - SpriteRenderer
-    City (1)
-        - Transform
-        - SpriteRenderer
-CameraBounds
+    - CustomCursor
+ScenePersist 
     - Transform
-    - BoxCollider2D
-Cannon
+    - ScenePersist
+Canvas
+    - RectTransform
+    - Canvas
+    - CanvasScaler
+    - GraphicRaycaster
+    TouchToPlayText
+        - RectTransform
+        - CanvasRenderer
+        - TextMeshProUGUI
+BackgroundMusic
     - Transform
-    - Animator
-    - SpriteRenderer
-    - CannonController
-    FirePoint
-        - Transform
-    TargetMarker
-        - Transform
-DimensionalPortal
+    - AudioSource
+    - BackgroundMusic
+MenuRoot
     - Transform
-    - SpriteRenderer
-    - Animator
-    - Portal
-    - BoxCollider2D
-    - NPCEmojiController
-    Emoji_Base
+    - MenuRoot
+    MenuManager
         - Transform
-        - SpriteRenderer
-        - Animator
+        - MenuNavigation
+    MenuCanvas
+        - RectTransform
+        - Canvas
+        - CanvasScaler
+        - GraphicRaycaster
+        MenuPanel
+            - RectTransform
+            - CanvasRenderer
+            - Image
+            - MenuPanelAnimator
+            Home
+                - RectTransform
+                - CanvasRenderer
+                - Image
+                - Button
+            Level
+                - RectTransform
+                - CanvasRenderer
+                - Image
+                - Button
+            Music
+                - RectTransform
+                - CanvasRenderer
+                - Image
+                - Button
+            Quit
+                - RectTransform
+                - CanvasRenderer
+                - Image
+                - Button
+            Close
+                - RectTransform
+                - CanvasRenderer
+                - Image
+                - Button
+        MusicOverlay
+            - RectTransform
+            BackgroundBlocker
+                - RectTransform
+                - Button
+                Image
+                    - RectTransform
+                    - CanvasRenderer
+                    - Image
+            MusicSettingsPanel
+                - RectTransform
+                - CanvasRenderer
+                - Image
+                - MusicSettingsController
+                - SFXSettingsController
+                TitleText
+                    - RectTransform
+                    - CanvasRenderer
+                    - TextMeshProUGUI
+                MusicVolume
+                    - RectTransform
+                    MusicVolumeSlider
+                        - RectTransform
+                        - Slider
+                        Background
+                            - RectTransform
+                            - CanvasRenderer
+                            - Image
+                        Fill Area
+                            - RectTransform
+                            Fill
+                                - RectTransform
+                                - CanvasRenderer
+                                - Image
+                        Handle Slide Area
+                            - RectTransform
+                            Handle
+                                - RectTransform
+                                - CanvasRenderer
+                                - Image
+                    MusicVolumeTitle
+                        - RectTransform
+                        - CanvasRenderer
+                        - TextMeshProUGUI
+                SFXVolume
+                    - RectTransform
+                    SFXVolumeSlider
+                        - RectTransform
+                        - Slider
+                        Background
+                            - RectTransform
+                            - CanvasRenderer
+                            - Image
+                        Fill Area
+                            - RectTransform
+                            Fill
+                                - RectTransform
+                                - CanvasRenderer
+                                - Image
+                        Handle Slide Area
+                            - RectTransform
+                            Handle
+                                - RectTransform
+                                - CanvasRenderer
+                                - Image
+                    SFXVolumeTitle
+                        - RectTransform
+                        - CanvasRenderer
+                        - TextMeshProUGUI
+        SettingsButton
+            - RectTransform
+            - CanvasRenderer
+            - Image
+            - Button
+            - SettingsButtonHandle
